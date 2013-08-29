@@ -7,8 +7,8 @@ ideas of what to build, we lacked a specific vision for how to harness software
 to 1) solve the main problem of planning a wedding and 2) sustain a viable
 business by optimizing its engagement with customers.”
 
-## Sprint Summary:  What we got to Example: 
-“By the end of the Sprint, we had developed a clearer product vision and better
+## Sprint Summary:  What we got to
+Example: “By the end of the Sprint, we had developed a clearer product vision and better
 understanding of the problem and our potential customers: the core problem is
 that for potential brides, grooms, and their loved ones, the experience of
 planning a wedding is stressful because of the lack of organized planning
