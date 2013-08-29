@@ -9,7 +9,9 @@ https://www.dropbox.com/home/design/Design%20sprint
 For an overview of the design sprint see:
 https://github.com/thoughtbot/design-sprint/blob/master/Design_Sprint_Overview.md
 
-Inspiration for this documentation comes from:
+**Inspiration for this documentation comes from:**
+
 Google Ventures [Design Staff blog posts](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html)
+
 IDEO's [Human Centered Design Toolkit](http://www.ideo.com/work/human-centered-design-toolkit/)
 
