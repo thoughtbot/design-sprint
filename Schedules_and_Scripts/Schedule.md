@@ -1,4 +1,4 @@
-# Daily Schedule
+## Daily Schedule
 
 * 10:00 am - 12:00 pm: Part 1 (2hrs)
 * 12:00 pm - 1:00 pm: Lunch
@@ -11,7 +11,8 @@
 
 ### Part 1: (2hrs)
 
-- Intro to the design sprint (5min) There are many uses for a design sprint. At
+- ### Intro to the design sprint (5min)
+  There are many uses for a design sprint. At
   the core a design sprint is about quickly and collaboratively using design
   thinking to solve problems.
 
@@ -29,8 +30,8 @@
   example: ‘Create savings and investment products that are appropriate for
   people living in rural areas.’” - IDEO HCD toolkit
 
-- Intro to Day 1: Understand, guidelines, risks and backburner boards (5min) Day
-  1 is about developing a common understanding of the context  within which we
+- Intro to Day 1: Understand, guidelines, risks and backburner boards (5min)
+  Day 1 is about developing a common understanding of the context  within which we
   are working and all the elements in that context (the problem, the business,
   the customer, the value prop/hypothesis, success, etc). Our goal is to expose
   risky knowledge gaps and identify risky assumptions so that we can make plans
@@ -136,10 +137,11 @@ Daily Recap (30min):  Consolidate notes and write daily summary.
 
 ### Part 1: (2hrs)
 
-- Intro to Day 3: Converge, guidelines (5min) On day three of the design sprint
+- Intro to Day 3: Converge, guidelines (5min)
+  On day three of the design sprint
   our goal is to take all of the possibilities that we have exposed over the
   past two days and hone in on a single version of the prototype that we will
-  build tomorrow. 
+  build tomorrow.
 
 - Pitch Practice (10min)
 - Revisit our risks (15min)
