@@ -11,7 +11,7 @@
 
 ### Part 1: (2hrs)
 
-###### - Intro to the design sprint (5min)
+#### - Intro to the design sprint (5min)
 There are many uses for a design sprint. At the core a design sprint is about quickly and collaboratively using design thinking to solve problems.
 
 For kicking off a new venture or product the initial design sprint is about orienting the team and aiming our efforts so that we can be confident that we are heading in the right direction. Integrating design thinking into our product development process and utilizing design sprints along the way will keep us on target and make sure we investing our time and money wisely.
