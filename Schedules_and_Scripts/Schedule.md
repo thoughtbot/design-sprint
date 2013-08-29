@@ -1,10 +1,15 @@
 ## Daily Schedule
 
 **Part 1:** 10:00 am - 12:00 pm (2hrs)
+
 **Lunch:** 12:00 pm - 1:00 pm
+
 **Part 2:** 01:00 pm - 03:00 pm (2hrs)
+
 **Break:** 03:00 pm - 03:30 pm
+
 **Part 3:** 03:30 pm - 05:30 pm (2hrs)
+
 **Daily Recap:** 05:30 pm - 06:00 pm (30min)
 
 ## Day 1: Understand
@@ -19,6 +24,7 @@ For kicking off a new venture or product the initial design sprint is about orie
 **- The Process:** High Level overview and goals of each day. Set expectations about how we might feel at certain steps in the process.
 
 **- The challenge statement (10min)**
+
 Define a concise design challenge. “A Design Challenge is phrased in a human-centered way with a sense of possibility. For example: ‘Create savings and investment products that are appropriate for people living in rural areas.’” - IDEO HCD toolkit
 
 **- Intro to Day 1: Understand, guidelines, risks and back-burner boards (5min)**
