@@ -32,15 +32,15 @@ realistic, feasible or viable they may or may not be. From this explosion of
 opportunity comes insights made when considering the implications of radically
 different perspectives on and approaches to solving a problem. These insights
 can become valuable differentiating forces and the source of unique solution
-inspiration. Also, once we begin eliminating as many of these options as
-possible we are given reason to be more confident in the options we do move
-forward with because we have explored so many alternatives.
+inspiration.
 
 ### Day 3: Converge
 
 On day three of the design sprint our goal is to take all of the possibilities
 that we have exposed over the past two days and hone in on a single version
 of a prototype that we will build and test with existing or potential customers.
+By eliminating as many options as possible we are given reason to be more
+confident in the options we do move forward with because we have explored so many alternatives.
 
 ### Day 4: Prototype
 
@@ -61,7 +61,7 @@ and have a much clearer idea of what steps we need to take next.
 As you work through the understand phase of a sprint there will be a lot of
 questinos that come up and information that is uncovered.
 
-This is a list of goals and questions that should help keep you on track:
+This is a list of goals and questions that should help keep us on track:
 
 * Develop a common understanding of needs, hopes and aspirations
 * Collect stories and inspiration from people
