@@ -1,4 +1,9 @@
-# Prototype Validation
+# Validate: Test the right path
+
+* [Guide]()
+* [Objectives]()
+* [Activities]()
+* [Example Schedule]()
 
 [Summary: reactions to competitive demos, our assumptions for the prototype,
 what we were looking for and the reactions to the prototype] 
@@ -68,4 +73,42 @@ Example:
 
 * ***Great Engagements prototype***
 [notes]
+
+
+
+## Schedule
+### 4 User Interviews (1hr each)
+
+**Intro user (5 - 10min)**
+
+**Site 1 (5 - 10min)**
+
+**Site 2 (5 - 10min)**
+
+**Site 3 (5 - 10min)**
+
+**Our Prototype (5 - 10min)**
+
+**Recap & Prep for next interview (10min)**
+
+### Interview Schedule
+
+**User 1:** 10:00am - 11:00am
+
+**User 2:** 11:00am - 12:00am
+
+**Lunch:** 12:00pm - 1:30pm
+
+**User 3:** 1:30am - 2:30am
+
+**User 4:** 2:30am - 3:30am
+
+**Break:** 3:30pm - 4pm
+
+### 4:00am - 5:00am (1hr)
+
+#### Consolidate notes and write daily summary (30min)
+
+#### Write sprint summary (30min)
+
 
