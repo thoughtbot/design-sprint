@@ -16,19 +16,19 @@ development process and utilizing design sprints along the way will keep us on t
 ## Design Sprint Overview
 A design sprint is comprised of five phases; Understand, Diverge, Converge, Prototype and Test. Each phase typically lasts one day for a total sprint length of five days.
 
-### [Pre-Sprint]()
+### [Pre-Sprint](/0-Pre-Sprint/Pre-Sprint.md)
 A few small tasks to get everybody on the same page and ready for the sprint ahead.
 
 
-### [Phase 1: Understand]()
+### [Phase 1: Understand](1-Understand/Understand.md)
 
 Day one is about developing a common understanding of the context  within which we are working and all the elements in that context (the problem, the business, the customer, the value prop/hypothesis, success, etc). Our goal is to expose risky knowledge gaps and identify risky assumptions so that we can make plans for reducing those risks and move forward confident we are heading in the right direction. Also, by gather info we will empower our decision making abilities and eliminate the need for guesswork later on.
 
-### [Phase 2: Diverge (Ideate)]()
+### [Phase 2: Diverge (Ideate)](2-Diverge/Diverge.md)
 Day two of the design sprint is about generating insights and solution concepts. Our goal is to explore as many possibilities as possible, regardless of how realistic, feasible or viable they may or may not be. From this explosion of opportunity comes insights made when considering the implications of radically
 different perspectives on and approaches to solving a problem. These insights can become valuable differentiating forces and the source of unique solution inspiration.
 
-### [Phase 3: Converge]
+### [Phase 3: Converge]()
 On day three of the design sprint our goal is to take all of the possibilities that we have exposed over the past two days and hone in on a single version of a prototype that we will build and test with existing or potential customers. By eliminating as many options as possible we are given reason to be more confident in the options we do move forward with because we have explored so many alternatives.
 
 ### [Phase 4: Prototype]()
