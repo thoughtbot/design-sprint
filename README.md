@@ -1,17 +1,16 @@
 # Product Design Sprint
 This repo is a collection of documents intended to help guide a design sprint, capture information during a sprint and provide daily and weekly summaries. This project is only meant to be a set of guidleines and suggestions for a design sprint not necessarily followed exactly. Each sprint should be tailored to the indivisual project and problem to be solved.
 
-
 ## What is a Design Sprint?
 A design sprint is about quickly and collaboratively using design thinking to solve problems and then testing the viability of those solutions.
 
 For kicking off a new venture or product the initial design sprint is about orienting the team and aiming our efforts so that we can be confident that we are heading in the right direction. Integrating design thinking into our product
 development process and utilizing design sprints along the way will keep us on target and make sure we investing our time and money wisely.
 
-### Why do a design sprint?
+#### Why do a design sprint?
 Participating in a Design Sprint orients the entire team and aims their efforts at hitting clearly defined goals. Sprints are useful starting points when kicking off a new feature, workflow, product, business or solving problems with an existing product.
 
-### What should you expect to have at the end of a design sprint?
+#### What should you expect to have at the end of a design sprint?
 At the end of the sprint the whole team will have a core understanding of the problem and how they are going to solve that problem. That solution should be validated with the testing.
 
 ## Design Sprint Overview
@@ -50,4 +49,3 @@ Phase five is the day we get to test our prototype with existing or potential cu
 * IDEO's [Human Centered Design Toolkit](http://www.ideo.com/work/human-centered-design-toolkit/)
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
 * [Personal Design Sprint](http://franciscortez.com/design-sprint/)
-
