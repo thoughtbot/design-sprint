@@ -3,25 +3,22 @@ Phase two of the design sprint is about generating insights and solution concept
 
 From this explosion of opportunity comes insights made when considering the implications of radically different perspectives on and approaches to solving a problem. These insights can become valuable differentiating forces and the source of unique solution inspiration. Also, once we begin eliminating as many of these options as possible we are given reason to be more confident in the options we do move forward with because we have explored so many alternatives.
 
-* [Guide]()
-* [Objectives]()
-* [Activities]()
-* [Example Schedule]()
-* [Case Studies]()
+## Objectives for Diverge
+Constantly ask "How might we?"
 
-## Guide for Diverge:
-// Ideate…
+### Activities for Diverge
+#### [Mind Mapping](../Exercises/mind-mapping.md)
 
-## Objectives for Diverge:
-// Created a ton of ideas and documented them…
+#### [Crazy Eights](../Exercises/crazy-eights.md)
+Crazy Eights work really well for coming up with a lot of varied  ideas or iterative ideas on an interface. 
 
-## Activities for Diverge:
-### [Mind Mapping]()
-### [Crazy 8s]()
-### [Story Boards]()
-### [Silent Critique]()
-### [Group Critique]()
-### [3-12-3]()
+#### [Story Boards](../Exercises/storyboards.md)
+
+#### [Silent Critique](../Exercises/silent-critique.md)
+
+#### [Group Critique](../Exercises/group-critique.md)
+
+### [3-12-3](../Exercises/3-12-3.md)
 
 ## Example Schedule for Diverge
 ### Intro to Day 2: Diverge *(5min)*
@@ -37,12 +34,10 @@ Everyone participates, you don’t need to be an artist (I’m not!) to sketch a
 #### Identify and diagram the critical path for the prototype (45min)
 Write down the user story that is most important for this sprint or that best addresses our most blocking/risky assumptions/knowledge gaps. (Write the story as if you were the ‘user’). Diagram the critical path, and break it into pieces if necessary for the purpose of the iteration exercises. 
 
-#### Mind Map (15min)
+#### Mind Map *(15min)*
 Create a "cheat sheet" of notes to use in later ideation exercises.
 
-### Part 2: (2hrs)
-
-#### Crazy Eights (10min x2)
+#### [Crazy Eights](../Exersises/crazy-eights.md) *(5min)*
 
 #### Storyboard (20min)
 

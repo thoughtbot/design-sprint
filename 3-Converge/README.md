@@ -1,13 +1,5 @@
 # Converge: Choose the right path
-On day three of the design sprint our goal is to take all of the possibilities
-that we have exposed over the past two days and hone in on a single version of
-the prototype that we will build tomorrow.
-
-* [Guide]()
-* [Objectives]()
-* [Activities]()
-* [Example Schedule]()
-* [Case Study]()
+On day three of the design sprint our goal is to take all of the possibilities that we have exposed over the past two days and hone in on a single version of the prototype that we will build tomorrow.
 
 ## Guide for Converge
 
