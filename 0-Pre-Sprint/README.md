@@ -5,7 +5,7 @@
 Notify all members of the sprint to set up the expectation of anything that they need to complete before the sprint and what to expect during the sprint.
 
 ### Review roles for the sprint
-**Moderator** Leads the design sprint. Guides the sprint from start to completion. 
+**Facilitator** Leads the design sprint. Guides the sprint from start to completion.
 
 **Recorder** Takes notes, photographs and is in charge of the documentation for the sprint.
 

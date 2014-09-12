@@ -16,23 +16,23 @@ At the end of the sprint the whole team will have a core understanding of the pr
 ## Design Sprint Overview
 A design sprint is comprised of five phases; Understand, Diverge, Converge, Prototype and Test. Each phase typically lasts one day for a total sprint length of five days.
 
-#### [Pre-Sprint](0-Pre-Sprint/Pre-Sprint.md)
+#### [Pre-Sprint](0-Pre-Sprint)
 A few small tasks to get everybody on the same page and ready for the sprint ahead.
 
 
-#### [Phase 1: Understand](1-Understand/Understand.md)
+#### [Phase 1: Understand](1-Understand)
 Phase one is about developing a common understanding of the context  within which we are working and all the elements in that context (the problem, the business, the customer, the value prop/hypothesis, success, etc). Our goal is to expose risky knowledge gaps and identify risky assumptions so that we can make plans for reducing those risks and move forward confident we are heading in the right direction. Also, by gather info we will empower our decision making abilities and eliminate the need for guesswork later on.
 
-#### [Phase 2: Diverge (Ideate)](2-Diverge/Diverge.md)
+#### [Phase 2: Diverge (Ideate)](2-Diverge)
 Phase two of the design sprint is about generating insights and solution concepts. Our goal is to explore as many possibilities as possible, regardless of how realistic, feasible or viable they may or may not be. From this explosion of opportunity comes insights made when considering the implications of radically different perspectives on and approaches to solving a problem. These insights can become valuable differentiating forces and the source of unique solution inspiration.
 
-#### [Phase 3: Converge](3-Converge/Converge.md)
+#### [Phase 3: Converge](3-Converge)
 Phase three of the design sprint our goal is to take all of the possibilities that we have exposed over the past two days and hone in on a single version of a prototype that we will build and test with existing or potential customers. By eliminating as many options as possible we are given reason to be more confident in the options we do move forward with because we have explored so many alternatives.
 
-#### [Phase 4: Prototype](4-Prototype/Prototype.md)
+#### [Phase 4: Prototype](4-Prototype)
 Phase four all of our effort is put into developing a prototype that will fill some of our riskiest knowledge gaps and validate or invalidate or riskiest assumptions. The medium the prototype is built in should be determined by our time constraints and learning goals. Paper prototypes, keynote prototypes and very simple static pages could serves as potential prototype mediums.
 
-#### [Phase 5: Test & Validate](5-Validate/Validate.md)
+#### [Phase 5: Test & Validate](5-Validate)
 Phase five is the day we get to test our prototype with existing or potential customers. By the end of this day we should have validated or invalidated some of our riskiest assumptions and have a much clearer idea of what steps we need to take next.
 
 ## Further Reading
