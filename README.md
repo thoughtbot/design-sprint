@@ -1,5 +1,5 @@
 # Product Design Sprint
-This repo is a collection of documents intended to help guide a design sprint, capture information during a sprint and provide daily and weekly summaries. This project is only meant to be a set of guidleines and suggestions for a design sprint not necessarily followed exactly. Each sprint should be tailored to the indivisual project and problem to be solved.
+This repo is a collection of documents intended to help guide a design sprint, capture information during a sprint and provide daily and weekly summaries. This project is only meant to be a set of guidelines and suggestions for a design sprint and not necessarily followed exactly. Each sprint should be tailored to the individual project and problem to be solved.
 
 ## What is a Design Sprint?
 A design sprint is about quickly and collaboratively using design thinking to solve problems and then testing the viability of those solutions.
