@@ -2,92 +2,123 @@
 
 # Product Design Sprint
 
-This repo is a collection of documents intended to help guide a design sprint,
-capture information during a sprint and provide daily and weekly summaries. This
-project is only meant to be a set of guidelines and suggestions for a design
-sprint and not necessarily followed exactly. Each sprint should be tailored to
-the individual project and problem to be solved.
+This repo is a collection of documents intended to help guide a design sprint.
+It contains guidelines that should not be followed exactly.
+Each sprint should be tailored to the individual project.
+It is written by and for the thoughtbot team.
 
-**Interested in learning from sprints lead by previous designers?** Documentation, including notes from each phase and what did and didn't work well, can be found in the [previous sprints](Previous-Sprints) folder.
+* [Previous Sprints](Previous-Sprints)
+* [Pre-Sprint Preparation](0-Pre-Sprint)
+* [Understand Phase](1-Understand)
+* [Diverge Phase](2-Diverge)
+* [Converge Phase](3-Converge)
+* [Prototype Phase](4-Prototype)
+* [Test Phase](5-Validate)
 
-## What is a Design Sprint?
+## What is a product design sprint?
 
-A design sprint is about quickly and collaboratively using design thinking to
-solve problems and then testing the viability of those solutions.
-
-For kicking off a new venture or product the initial design sprint is about
-orienting the team and aiming our efforts so that we can be confident that we
-are heading in the right direction. Integrating design thinking into our product
-development process and utilizing design sprints along the way will keep us on
-target and make sure we investing our time and money wisely.
+A product design sprint is a technique to
+quickly solve product design problems
+and test the viability of a solution.
 
 #### Why do a design sprint?
 
-Participating in a Design Sprint orients the entire team and aims their efforts
-at hitting clearly defined goals. Sprints are useful starting points when
-kicking off a new feature, workflow, product, business or solving problems with
-an existing product.
+A design sprint orients the team
+and aims our efforts toward a mutual goal.
+Design thinking and product design sprints
+keep us on target
+and invest our time and money wisely.
+
+Sprints are useful when kicking off a new
+business, product, feature, or workflow.
+Sprints can also be used to solve problems with an existing product.
 
 #### What should you expect to have at the end of a design sprint?
 
-At the end of the sprint the whole team will have a core understanding of the
-problem and how they are going to solve that problem. That solution should be
-validated with the testing.
+At the end of the sprint,
+the team will understand the problem and
+will have validated
+whether we have a viable solution to begin building
+or whether we need to run another sprint to keep searching for a solution.
 
 ## Design Sprint Overview
 
-A design sprint is comprised of five phases; Understand, Diverge, Converge,
-Prototype and Test. Each phase typically lasts one day for a total sprint length
-of five days.
+A design sprint is comprised of five phases;
+Understand, Diverge, Converge, Prototype and Test.
+Each phase typically lasts one day.
 
 #### [Pre-Sprint](0-Pre-Sprint)
 
-A few small tasks to get everybody on the same page and ready for the sprint
-ahead.
+We should not start a sprint
+without defining a "job to be done"
+as the focus of the sprint.
+The "job to be done" may evolve during the sprint
+into a problem statement agreed upon by the whole team,
+but without one as a starting point
+our client is not ready and should not be paying us.
 
-#### [Phase 1: Understand](1-Understand)
+#### [Understand Phase](1-Understand)
 
-Phase one is about developing a common understanding of the context  within
-which we are working and all the elements in that context (the problem, the
-business, the customer, the value prop/hypothesis, success, etc). Our goal is to
-expose risky knowledge gaps and identify risky assumptions so that we can make
-plans for reducing those risks and move forward confident we are heading in the
-right direction. Also, by gather info we will empower our decision making
-abilities and eliminate the need for guesswork later on.
+The Understand phase
+develops a common understanding
+of the context within which we are working
+and all the elements in that context:
+the customer,
+their job to be done,
+and the business our client hopes to support by servicing the job to be done.
+We want to expose risky knowledge gaps and assumptions
+so we can make plans to reduce those risks
+and move forward with confidence.
 
-#### [Phase 2: Diverge (Ideate)](2-Diverge)
+#### [Diverge Phase](2-Diverge)
 
-Phase two of the design sprint is about generating insights and solution
-concepts. Our goal is to explore as many possibilities as possible, regardless
-of how realistic, feasible or viable they may or may not be. From this explosion
-of opportunity comes insights made when considering the implications of
-radically different perspectives on and approaches to solving a problem. These
-insights can become valuable differentiating forces and the source of unique
-solution inspiration.
+The Diverge phase
+generates insights and concepts for solutions.
+Our goal is to explore as many possibilities as possible,
+regardless of how feasible or viable.
+Insights are born from this explosion of possibilities
+by considering the implications of
+radically different approaches to solving a problem.
+These insights can become
+valuable differentiating forces
+and the source of
+inspiration for unique solutions.
 
-#### [Phase 3: Converge](3-Converge)
+#### [Converge Phase](3-Converge)
 
-Phase three of the design sprint our goal is to take all of the possibilities
-that we have exposed over the past two days and hone in on a single version of a
-prototype that we will build and test with existing or potential customers. By
-eliminating as many options as possible we are given reason to be more confident
-in the options we do move forward with because we have explored so many
-alternatives.
+The Converge phase
+takes all the possibilities generated over the past two phases
+and hones in on a single version
+to prototype
+and test with existing or potential customers.
+By exploring and eliminating so many options,
+we have reason to be more confident in our choices.
 
-#### [Phase 4: Prototype](4-Prototype)
+#### [Prototype Phase](4-Prototype)
 
-Phase four all of our effort is put into developing a prototype that will fill
-some of our riskiest knowledge gaps and validate or invalidate or riskiest
-assumptions. The medium the prototype is built in should be determined by our
-time constraints and learning goals. Paper prototypes, keynote prototypes and
-very simple static pages could serves as potential prototype mediums.
+The Prototype phase
+develops a prototype
+that fills our riskiest knowledge gaps and assumptions.
+Paper prototypes,
+Keynote prototypes,
+Flinto prototypes,
+and
+static HTML/CSS pages
+are all valid mediums.
+The medium
+should be determined by
+our time constraints
+and learning goals.
 
-#### [Phase 5: Test & Validate](5-Validate)
+#### [Test Phase](5-Validate)
 
-Phase five is the day we get to test our prototype with existing or potential
-customers. By the end of this day we should have validated or invalidated some
-of our riskiest assumptions and have a much clearer idea of what steps we need
-to take next.
+The Test phase
+tests our prototype
+with existing or potential customers.
+By the end of this phase,
+we should have validated or invalidated
+our riskiest knowledge gaps and assumptions
+and have confidence in our next steps.
 
 ## Further Reading
 
