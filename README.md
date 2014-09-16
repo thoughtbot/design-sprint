@@ -6,6 +6,8 @@ project is only meant to be a set of guidelines and suggestions for a design
 sprint and not necessarily followed exactly. Each sprint should be tailored to
 the individual project and problem to be solved.
 
+Documentation from previous design sprints, including notes from each phase and what did and didn't work well, can be found in the [Previous Sprints](Previous-Sprints) folder.
+
 ## What is a Design Sprint?
 
 A design sprint is about quickly and collaboratively using design thinking to
