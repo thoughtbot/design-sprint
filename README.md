@@ -1,3 +1,5 @@
+![Design Sprint Phases](/images/phases.png?raw=true "Design Sprint Phases")
+
 # Product Design Sprint
 
 This repo is a collection of documents intended to help guide a design sprint,
@@ -6,7 +8,7 @@ project is only meant to be a set of guidelines and suggestions for a design
 sprint and not necessarily followed exactly. Each sprint should be tailored to
 the individual project and problem to be solved.
 
-Documentation from previous design sprints, including notes from each phase and what did and didn't work well, can be found in the [Previous Sprints](Previous-Sprints) folder.
+**Interested in learning from sprints lead by previous designers?** Documentation, including notes from each phase and what did and didn't work well, can be found in the [previous sprints](Previous-Sprints) folder.
 
 ## What is a Design Sprint?
 
