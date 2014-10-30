@@ -128,9 +128,9 @@ human-centered way with a sense of possibility. For example: ‘Create savings a
 investment products that are appropriate for people living in rural areas.’” -
 IDEO HCD toolkit
 
-##### Introduce [Assumptions board](../Exercises/assumtions.md) *(10min)*
+##### Introduce [Assumptions board](../Exercises/assumptions.md) *(10min)*
 
-##### Introduce [Back-burner board](../Exercises/back-burner.mb) *(10min)*
+##### Introduce [Back-burner board](../Exercises/back-burner.md) *(10min)*
 
 ##### [Pitch Practice](../Exercises/pitch-practice.md) *(15min)*
 
