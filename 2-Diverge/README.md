@@ -2,7 +2,7 @@
 
 Phase two of the design sprint is about generating insights and solution
 concepts. Our goal is to explore as many possibilities as possible, regardless
-of how realistic, feasible or viable they may or may not be. 
+of how realistic, feasible or viable they may or may not be.
 
 From this explosion of opportunity comes insights made when considering the
 implications of radically different perspectives on and approaches to solving a
@@ -11,18 +11,17 @@ source of unique solution inspiration. Also, once we begin eliminating as many
 of these options as possible we are given reason to be more confident in the
 options we do move forward with because we have explored so many alternatives.
 
+---
+
 ## Objectives for Diverge
 
-Constantly ask "How might we?"
+Constantly ask “How might we?”
 
 ### Activities for Diverge
 
 #### [Mind Mapping](../Exercises/mind-mapping.md)
 
 #### [Crazy Eights](../Exercises/crazy-eights.md)
-
-Crazy Eights work really well for coming up with a lot of varied  ideas or
-iterative ideas on an interface.
 
 #### [Story Boards](../Exercises/storyboards.md)
 
@@ -31,6 +30,8 @@ iterative ideas on an interface.
 #### [Group Critique](../Exercises/group-critique.md)
 
 ### [3-12-3](../Exercises/3-12-3.md)
+
+---
 
 ## Example Schedule for Diverge
 
@@ -60,13 +61,15 @@ visualize your ideas. No ideas are to wild!
 Write down the user story that is most important for this sprint or that best
 addresses our most blocking/risky assumptions/knowledge gaps. (Write the story
 as if you were the ‘user’). Diagram the critical path, and break it into pieces
-if necessary for the purpose of the iteration exercises. 
+if necessary for the purpose of the iteration exercises.
 
 #### Mind Map *(15min)*
 
-Create a "cheat sheet" of notes to use in later ideation exercises.
+Create a cheat sheet of notes to use in later ideation exercises. It is helpful
+to begin the ideation precess with this activity since it produces the most loose
+concepts that can be refined in later activities.
 
-#### [Crazy Eights](../Exersises/crazy-eights.md) *(5min)*
+#### Crazy Eights *(5min)*
 
 #### Storyboard (20min)
 
@@ -76,8 +79,8 @@ Create a "cheat sheet" of notes to use in later ideation exercises.
 
 ### Part 3 (2hrs):
 
-Repeat Part 2 for the same user story or a different segment of
-the same story.
+Repeat Part 2 for the same user story or a different segment of the
+same story.
 
 #### Daily Recap (30min)
 
@@ -100,4 +103,4 @@ engagement with the wedding process in general.
 
 With our prototype, we want to evaluate our ability to capture the excitement of
 a recently engaged person and leverage that excitement to create engagement with
-our website.”
+our website.
