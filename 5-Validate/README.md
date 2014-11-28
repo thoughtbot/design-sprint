@@ -1,13 +1,11 @@
 # Validate & Learn: Test the right path
 
-## Summary
-
 Reactions to competitive demos, our assumptions for the prototype, what we were
-looking for and the reactions to the prototype
+looking for and the reactions to the prototype.
 
 ---
 
-## Schedule
+## Example Schedule for Validate
 
 #### 4 User Interviews *(1hr each)*
 
@@ -16,9 +14,9 @@ looking for and the reactions to the prototype
 * Our Prototype *(5 - 10min)*
 * Recap & Prep for next interview *(10min)*
 
-#### Consolidate notes and write daily summary *(30min)
+#### Consolidate Notes and Write Daily Summary *(30min)
 
-#### Write sprint summary (30min)
+#### Write Sprint Summary (30min)
 
 ---
 
