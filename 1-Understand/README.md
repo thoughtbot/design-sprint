@@ -92,6 +92,10 @@ on a sticky note board.
 
 #### [Pitch Practice](../Exercises/pitch-practice.md)
 
+The product owner should walk the sprint team through the business opportunity
+and market. The repetition of this process throughout the design sprint helps to
+reinforce an understanding of the essential value of the product.
+
 #### [Card Sorting](../Exercises/card-sorting.md)
 
 ---
@@ -103,7 +107,7 @@ on a sticky note board.
 Introduce the design sprint team, determine the “decider” and acknowledge the
 others involved with the project but not participating in the design sprint.
 
-##### Intro to the design sprint process *(5min)*
+##### Intro to the Design Sprint Process *(5min)*
 
 High Level overview and goals of each day. Set expectations about how we might
 feel at certain steps in the process.
@@ -113,7 +117,7 @@ quickly and collaboratively using design thinking to solve problems.
 
 ##### Intro to Day 1: Understand *(5min)*
 
-Day 1 is about developing a common understanding of the context  within which we
+Day 1 is about developing a common understanding of the context within which we
 are working and all the elements in that context (the problem, the business, the
 customer, the value prop/hypothesis, success, etc). Our goal is to expose risky
 knowledge gaps and identify risky assumptions so that we can make plans for
@@ -121,37 +125,31 @@ reducing those risks and move forward confident we are heading in the right
 direction. Also, by gather info we will empower our decision making abilities
 and eliminate the need for guesswork later on.
 
-##### The challenge statement *(10min)*
+##### The Challenge Statement *(10min)*
 
 Define a concise design challenge. “A Design Challenge is phrased in a
 human-centered way with a sense of possibility. For example: ‘Create savings and
 investment products that are appropriate for people living in rural areas.’” -
 IDEO HCD toolkit
 
-##### Introduce [Assumptions board](../Exercises/assumptions.md) *(10min)*
+##### Introduce Assumptions Board *(10min)*
 
-##### Introduce [Back-burner board](../Exercises/back-burner.md) *(10min)*
+##### Introduce Back-burner Board *(10min)*
 
-##### [Pitch Practice](../Exercises/pitch-practice.md) *(15min)*
+##### Pitch Practice *(15min)*
 
 ##### Existing research *(10min)*
 
 Quickly identify existing research the client has done and determine when that
 research can be brought back during the definitions section of the day.
 
-##### Definitions: The business & The customer *(1hr)*
+##### Definitions: The Business & The Customer *(1hr)*
 
-##### Definitions: The problem, The value prop, Success *(1hr)*
-
-[See the problem & the value prop and success worksheets]
+##### Definitions: The problem, The Value Prop, Success *(1hr)*
 
 ##### Business Model Canvas *(30min)*
 
-[See business model canvas worksheets]
-
 ##### Lightning Demos *(45min)*
-
-Analyze three or more competitive or similar products.
 
 ##### Expert Perspectives *(30min)*
 
