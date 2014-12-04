@@ -1,4 +1,4 @@
-# Mind Map
+# Mind Mapping
 
 **Supplies needed:** Paper, Sharpie
 **Estimated time:**

@@ -4,11 +4,13 @@ On day three of the design sprint our goal is to take all of the possibilities
 that we have exposed over the past two days and hone in on a single version of
 the prototype that we will build tomorrow.
 
-## Guide for Converge
+---
 
 ## Objectives for Converge
 
-## Activities for Converge
+### Activities for Converge
+
+---
 
 ## Example Schedule for Converge
 
@@ -18,32 +20,32 @@ On day three of the design sprint our goal is to take all of the possibilities
 that we have exposed over the past two days and hone in on a single version of
 the prototype that we will build tomorrow.
 
-### Pitch Practice *(10min)*
+#### Pitch Practice *(10min)*
 
-### Revisit our risks *(15min)*
+#### Revisit our risks *(15min)*
 
-### Recap Day 2, identify themes from our storyboards *(30min)*
+#### Recap Day 2, identify themes from our storyboards *(30min)*
 
-### Identify conflicts in our storyboards *(30min)*
+#### Identify conflicts in our storyboards *(30min)*
 
 Conflict: two or more ways of solving the same problem.
 
-### List the underlying assumptions *(30min)*
+#### List the underlying assumptions *(30min)*
 
 Create a table with two columns. One listing the assumptions embedded in our
 prototype and the other listing the ways in which we can test those assumptions.
 
-### Storyboard your prototype *(2hrs)*
+#### Storyboard your prototype *(2hrs)*
 
-### Determine prototype medium *(10min)*
+#### Determine prototype medium *(10min)*
 
-### Plan interview questions *(40min)*
+#### Plan interview questions *(40min)*
 
-### Make plans for reducing risks not addressed by the prototype *(40min)*
+#### Make plans for reducing risks not addressed by the prototype *(40min)*
 
-### Consider plans for the week following the design sprint *(30min)*
+#### Consider plans for the week following the design sprint *(30min)*
 
-### Daily Recap *(30min)*
+#### Daily Recap *(30min)*
 
 Consolidate notes and write daily summary.
 

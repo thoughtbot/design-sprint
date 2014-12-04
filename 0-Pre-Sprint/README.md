@@ -1,6 +1,6 @@
 # Pre-sprint
 
-### [Send out email introduction](Sample email)
+### Send out [Client Worksheet](Materials/Pre-Sprint_Client_Worksheet.md) and [Request for Materials](Materials/Pre-Sprint_Request_for_Materials.md)
 
 Notify all members of the sprint to set up the expectation of anything that they
 need to complete before the sprint and what to expect during the sprint.
@@ -12,9 +12,9 @@ completion.
 **Recorder** Takes notes, photographs and is in charge of the documentation for
 the sprint.
 
-### Review design sprint documents and schedule
+### Review design sprint documentation and schedule
 
-The moderator of the sprint should be reviewing design sprint documents and
+The moderator of the sprint should be reviewing design sprint documentation and
 coming up with a plan specific to the project of feature set.
 
 ### Gather existing research and information

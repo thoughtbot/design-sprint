@@ -1,12 +1,16 @@
 # Prototype: Quickly build the right path
 
+---
+
 ## Objectives for Prototype
 
-## Activities for Prototype
+### Activities for Prototype
 
 #### HTML & CSS
 #### Invision
 #### Keynote
+
+---
 
 ## Case Study for Prototype
 
