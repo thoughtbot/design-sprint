@@ -1,9 +1,11 @@
-We love new ideas to push this repository and design sprints forward. We are using [GitHub issues](https://github.com/thoughtbot/design-sprint/issues/) for tracking our work on the repository. Here are the ways that you can help us:
+We love new ideas that push this repository and design sprints forward. We are using [GitHub issues](https://github.com/thoughtbot/design-sprint/issues/) for tracking our work on the repository. Here are the ways that you can contribute:
 
-# Maintenance and Improvements
+## Maintenance and Improvements
+If you find a bug, misspelling or other problem with the repository please add a new [issue](https://github.com/thoughtbot/design-sprint/issues/new).
+
 If you are looking to contribute and are not sure where to start: 
 
-1. Grab from the list of [Issues](https://github.com/thoughtbot/design-sprint/issues/) and assign yourself to the issue so that we know someone is working on it. 
+1. Grab an issue from the list of [issues labeled bug](https://github.com/thoughtbot/design-sprint/labels/bug) and assign yourself to the issue so that we know someone is working on it. 
 2. Make the necessary changes.
 3. Submit a [Pull Request](#quick-guide-to-submitting-a-pull-request-in-github).
 
@@ -15,7 +17,9 @@ The more examples that we have the better it will be to spread knowledge and exp
 
 1. Add new project by duplicating the example project folder.
 2. Edit the README in that folder and add any other assets that support the explanation of the sprint such as photos, documents, prototypes or videos.
-3. Add references on the separate phases to their respective 
+3. Add references on the separate phases to the respective parts of the example.
+4. Submit a [Pull Request](#quick-guide-to-submitting-a-pull-request-in-github).
+
 
 # Quick guide to submitting a Pull Request in GitHub:
 
