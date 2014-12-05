@@ -96,7 +96,9 @@ The product owner should walk the sprint team through the business opportunity
 and market. The repetition of this process throughout the design sprint helps to
 reinforce an understanding of the essential value of the product.
 
-#### [Card Sorting](../Exercises/card-sorting.md)
+#### [Open Card Sorting](../Exercises/card-sorting.md)
+
+Card sorting helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
 
 ---
 
