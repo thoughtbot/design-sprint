@@ -13,7 +13,7 @@ It is written by and for the thoughtbot team.
 * [Diverge Phase](2-Diverge)
 * [Converge Phase](3-Converge)
 * [Prototype Phase](4-Prototype)
-* [Test Phase](5-Validate)
+* [Test Phase](5-Test)
 
 ## What is a product design sprint?
 

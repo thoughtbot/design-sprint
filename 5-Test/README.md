@@ -1,11 +1,11 @@
-# Validate & Learn: Test the right path
+# Test & Learn: Test the right path
 
 Reactions to competitive demos, our assumptions for the prototype, what we were
 looking for and the reactions to the prototype.
 
 ---
 
-## Example Schedule for Validate
+## Example Schedule for Test
 
 #### 4 User Interviews *(1hr each)*
 
