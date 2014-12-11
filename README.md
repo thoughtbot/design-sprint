@@ -134,3 +134,4 @@ and have confidence in our next steps.
 * IDEO's [Human Centered Design Toolkit](http://www.ideo.com/work/human-centered-design-toolkit/)
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
 * [Personal Design Sprint](http://franciscortez.com/design-sprint/)
+* [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
