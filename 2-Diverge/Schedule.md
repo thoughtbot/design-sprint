@@ -20,15 +20,11 @@ if necessary for the purpose of the iteration exercises.
 
 ### Diverge Cycle *(2 hours)*
 
-#### [Mind Map](../Exercises/mind-maps.md) *(15min)*
-
-#### [Crazy Eights](../Exercises/crazy-eights.md) *(5min)*
-
-#### [Storyboard](../Exercises/storyboards.md) *(20min)*
-
-#### [Silent critique](../Exercises/silent-critique.md) *(10min)*
-
-#### [Group critique](../Exercises/group-critique.md) *(3-5min each person)*
+* [Mind Map](../Exercises/mind-maps.md) *(15min)*
+* [Crazy Eights](../Exercises/crazy-eights.md) *(5min)*
+* [Storyboard](../Exercises/storyboards.md) *(20min)*
+* [Silent critique](../Exercises/silent-critique.md) *(10min)*
+* [Group critique](../Exercises/group-critique.md) *(3-5min each person)*
 
 ### Repeat Diverge Cycle *(2 hrs)*
 
