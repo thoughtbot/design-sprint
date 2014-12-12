@@ -15,29 +15,6 @@ options we do move forward with because we have explored so many alternatives.
 
 ## Objectives for Diverge
 
-Constantly ask “How might we?”
-
-### Activities for Diverge
-
-#### [Mind Mapping](../Exercises/mind-mapping.md)
-
-#### [Crazy Eights](../Exercises/crazy-eights.md)
-
-#### [Story Boards](../Exercises/storyboards.md)
-
-#### [Silent Critique](../Exercises/silent-critique.md)
-
-#### [Group Critique](../Exercises/group-critique.md)
-
-### [3-12-3](../Exercises/3-12-3.md)
-
----
-
-## Example Schedule for Diverge
-
-### Intro to Day 2: Diverge *(5min)*
-
-Day two of the design sprint is about generating insights and solution concepts.
 Our goal is to explore as many possibilities as possible, regardless of how
 realistic, feasible or viable they may or may not be. From this explosion of
 opportunity comes insights made when considering the implications of radically
@@ -47,60 +24,54 @@ inspiration. Also, once we begin eliminating as many of these options as
 possible we are given reason to be more confident in the options we do move
 forward with because we have explored so many alternatives.
 
-#### Guidelines
+* Have a mindset of "Yes and"
+* Constantly ask “How might we?”
 
-Everyone participates, you don’t need to be an artist (I’m not!) to sketch and
-visualize your ideas. No ideas are to wild!
+### Suggested Activities for Diverge
 
-#### Pitch Practice (10min)
+These are the core of the [Google Ventures Design Sprint Diverge
+Day](http://www.gv.com/lib/the-product-design-sprint-divergeday2).
+They go through each of these exercises in the oder that they appear
+and expect ideas to build upon each other while doing them. It is best to split
+up the [Critical path](../Exercises/critical-path.md) into 
+stand alone parts and do this cycle for each part.
 
-#### Recap Day 1, identify biggest risks, determine goals for the prototype (45min)**
+#### [Mind Mapping](../Exercises/mind-mapping.md)
 
-#### Identify and diagram the critical path for the prototype (45min)
+A warm up exercise to start generating ideas. People are given time to
+individually explore the problem however they choose to.
 
-Write down the user story that is most important for this sprint or that best
-addresses our most blocking/risky assumptions/knowledge gaps. (Write the story
-as if you were the ‘user’). Diagram the critical path, and break it into pieces
-if necessary for the purpose of the iteration exercises.
+#### [Crazy Eights](../Exercises/crazy-eights.md)
 
-#### Mind Map *(15min)*
+Crazy eights are meant to generate a lot of ideas really quickly. With a forced
+time limit for each sketch people need to think quickly. Doing this exercise
+repetitively generates a lot of varied  ideas.
 
-Create a cheat sheet of notes to use in later ideation exercises. It is helpful
-to begin the ideation precess with this activity since it produces the most loose
-concepts that can be refined in later activities.
+#### [Story Boards](../Exercises/storyboards.md)
 
-#### Crazy Eights *(5min)*
+This exercise mimics a movie storyboard. You'll be drawing a flow for the user
+by using Post-its as frames and writing out out a description next to it.
 
-#### Storyboard (20min)
+#### [Silent Critique](../Exercises/silent-critique.md)
 
-#### Silent critique (10min)
+This critique exercise is a way to get everyones input in a short amount of
+time. At the end of the exercise you'll have a heat map of the ideas people find
+really interesting.
 
-#### 3min critiques (3-5min each person)
+#### [Group Critique](../Exercises/group-critique.md)
 
-### Part 3 (2hrs):
+This critique exercise is more open and allows for a more detailed conversation.
+It gives the person that came up with the idea to add any remaining details or
+correct any wrong interpretations.
 
-Repeat Part 2 for the same user story or a different segment of the
-same story.
+#### Additional Activities for Diverge
 
-#### Daily Recap (30min)
+### [3-12-3](../Exercises/3-12-3.md)
 
-Consolidate notes and write daily summary.
+3-12-3 is a good way to generate ideas in a big group and then start to converge
+them down. It is great to do after the Google Ventures Diverge Cycle when there
+seems to be more ideas and no really strong direction forward.
 
-### What’s the goal of the prototype?
+---
 
-[Explain the core purpose of the prototype, the assumptions we are trying to
-validate/invalidate or the knowledge gaps we are trying to fill.
-
-Example: “Before couples can address the details of planning a wedding
-(decoration, guests, caterers, dress, etc.), couples usually have to decide on a
-location and venue. The couple is filled with excitement; as the wedding day
-will usher forth a new life for the couple together. However, the couple might
-experience a bit of uncertainty as to how even to proceed planning their
-wedding. We want to capture couples at their “excitement” period and put aside
-all uncertainty and potential anxiety that the wedding planning process may
-cause. A customer’s initial engagement with our website should parallel his/her
-engagement with the wedding process in general.
-
-With our prototype, we want to evaluate our ability to capture the excitement of
-a recently engaged person and leverage that excitement to create engagement with
-our website.
+## [Example Scedule](Schedule.md)
