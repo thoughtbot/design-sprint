@@ -1,10 +1,50 @@
 # Prototype: Quickly build the right path
 
+The core purpose of the prototype, the assumptions you are trying to
+validate/invalidate or the knowledge gaps you are trying to fill should have all
+been discussed in [Converge](../3-Converge). During this phase you will build a
+quick and dirty prototype. Since you only have at most a day to build the
+prototype it should be as low-fi as you can get away with during [Testing](../5-Test).
+
 ---
 
-## Objectives for Prototype
-Explain the core purpose of the prototype, the assumptions we are trying to
-validate/invalidate or the knowledge gaps we are trying to fill.
+## Activities for Prototype
+
+#### HTML & CSS
+
+HTML & CSS prototypes tend to be the most time consuming but are best for
+heavier web interactions like filling out forms.
+Use [Proteus](https://github.com/thoughtbot/proteus)
+for a starting point and quickly host on GitHub pages.
+
+#### [Invision](http://www.invisionapp.com/)
+
+Invision really great for being able to take mockups from Photoshop or Sketch and
+allow for users to click through to different states or pages. Invision allows
+for you to create a simple image map for your users. Because it takes mockups it
+allows for you to create designs that look more visually appealing or visually
+complete.
+
+#### [Keynote](https://www.apple.com/mac/keynote/)
+
+The traditional [Google Ventures
+prototype](http://www.gv.com/lib/the-product-design-sprint-prototypeday4),
+Keynote is great for a low-fi click through prototype similar to Invision.
+Keynote allows for really great animations and transitions.
+Because it is Keynote and not a graphical editor there is a
+limit to the visual design you can do.
+If you are going to use Keynote for prototyping use a
+template like [Keynotopia](http://keynotopia.com/)
+to speed up your design process.
+
+---
+
+## Examples
+
+### [Great Engagements](http://greatengagements.herokuapp.com/)
+
+> Our prototype is much higher-fidelity than a prototype would typically be, but
+> that was somewhat necessary for testing our hypothesis.
 
 > Before couples can address the details of planning a wedding
 (decoration, guests, caterers, dress, etc.), couples usually have to decide on a
@@ -19,18 +59,3 @@ engagement with the wedding process in general.
 > With our prototype, we want to evaluate our ability to capture the excitement of
 a recently engaged person and leverage that excitement to create engagement with
 our website.
-
-### Activities for Prototype
-
-#### HTML & CSS
-#### Invision
-#### Keynote
-
----
-
-## Case Study for Prototype
-
-### [Great Engagements](http://greatengagements.herokuapp.com/)
-
-> Our prototype is much higher-fidelity than a prototype would typically be, but
-> that was somewhat necessary for testing our hypothesis.
