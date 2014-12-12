@@ -1,20 +1,5 @@
 # Diverge: Illuminating all possible paths
 
-Phase two of the design sprint is about generating insights and solution
-concepts. Our goal is to explore as many possibilities as possible, regardless
-of how realistic, feasible or viable they may or may not be.
-
-From this explosion of opportunity comes insights made when considering the
-implications of radically different perspectives on and approaches to solving a
-problem. These insights can become valuable differentiating forces and the
-source of unique solution inspiration. Also, once we begin eliminating as many
-of these options as possible we are given reason to be more confident in the
-options we do move forward with because we have explored so many alternatives.
-
----
-
-## Objectives for Diverge
-
 Our goal is to explore as many possibilities as possible, regardless of how
 realistic, feasible or viable they may or may not be. From this explosion of
 opportunity comes insights made when considering the implications of radically
@@ -26,6 +11,8 @@ forward with because we have explored so many alternatives.
 
 * Have a mindset of "Yes and"
 * Constantly ask “How might we?”
+
+---
 
 ### Suggested Activities for Diverge
 
@@ -64,9 +51,9 @@ This critique exercise is more open and allows for a more detailed conversation.
 It gives the person that came up with the idea to add any remaining details or
 correct any wrong interpretations.
 
-#### Additional Activities for Diverge
+### Additional Activities for Diverge
 
-### [3-12-3](../Exercises/3-12-3.md)
+#### [3-12-3](../Exercises/3-12-3.md)
 
 3-12-3 is a good way to generate ideas in a big group and then start to converge
 them down. It is great to do after the Google Ventures Diverge Cycle when there

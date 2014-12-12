@@ -1,55 +1,48 @@
 # Converge: Choose the right path
 
-On day three of the design sprint our goal is to take all of the possibilities
+During Converge our goal is to take all of the possibilities
 that we have exposed over the past two days and hone in on a single version of
 the prototype that we will build tomorrow.
 
 ---
 
-## Objectives for Converge
+## Activities for Converge
 
-### Activities for Converge
+#### Identify Conflicts
+
+Throughout Diverge there should have been many conflicting ideas. Go through all
+of the ideas and figure out where there are two valid ideas that solve the same
+problem.
+
+#### [Assumption / Test Table](../Exercises/assumptions.md)
+
+Review all of the Assumptions that have been collected over the couse of the
+sprint. Decide a plan to test them and decide how to determine from the test if
+it is valid or not.
+
+#### [Back Burner Board](../Exercises/back-burner.md)
+
+As a group review all the Back burner ideas. Document the ones that are still
+applicable and throw away any that aren't.
+
+#### [Final Storyboard](../Exercises/storyboards.md)
+
+In this case the Storyboard should be a team effort and ideally what the team
+will be prototyping.
+
+#### [3-12-3](../Exercises/3-12-3.md)
+
+3-12-3 is a good way to generate ideas in a big group and then start to converge
+them down. It is great to do after the Google Ventures Diverge Cycle when there
+seems to be more ideas and no really strong direction forward.
 
 ---
 
-## Example Schedule for Converge
+## [Example Schedule for Converge](Schedule.md)
 
-### Intro to Day 3: Converge, guidelines *(5min)*
+---
 
-On day three of the design sprint our goal is to take all of the possibilities
-that we have exposed over the past two days and hone in on a single version of
-the prototype that we will build tomorrow.
-
-#### Pitch Practice *(10min)*
-
-#### Revisit our risks *(15min)*
-
-#### Recap Day 2, identify themes from our storyboards *(30min)*
-
-#### Identify conflicts in our storyboards *(30min)*
-
-Conflict: two or more ways of solving the same problem.
-
-#### List the underlying assumptions *(30min)*
-
-Create a table with two columns. One listing the assumptions embedded in our
-prototype and the other listing the ways in which we can test those assumptions.
-
-#### Storyboard your prototype *(2hrs)*
-
-#### Determine prototype medium *(10min)*
-
-#### Plan interview questions *(40min)*
-
-#### Make plans for reducing risks not addressed by the prototype *(40min)*
-
-#### Consider plans for the week following the design sprint *(30min)*
-
-#### Daily Recap *(30min)*
-
-Consolidate notes and write daily summary.
-
-## Case Study
+## Examples
 
 > Because Great Engagements is an entirely new product, considering a customer’s
 > first encounter and reaction to the product is very important in terms of
