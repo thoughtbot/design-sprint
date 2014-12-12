@@ -1,22 +1,27 @@
 # Group Critique
 
 **Supplies needed:** None
-**Estimated time:** As needed
+
+**Estimated time:** 3 minutes for each sketch
 
 ## Best to use when
+It is best to do a Group Critique after a Silent critique has already been done.
+It allows for in-depth discussion around the idea. It gives time for people to
+say what they thought was good about the idea and for the person that had the
+idea to add any more detail to the thought.
 
 ## Instructions:
 
-Next, everybody gathers around the storyboards one at a time. First, people talk
-about what they liked, then we ask the person who drew it if we missed anything
-important. Usually the best, most popular ideas are the ones people can
-understand without an explanation, so the author of the storyboard often doesn’t
-have anything else to add. This process works far better than letting people
-explain their ideas first — which almost always uses up a lot of time.
+1. Everyone gathers around a sketch or [Storyboard](storyboard.md).
+* Ask people what they liked about it.
+* Ask the person that had the idea to add any more explanation that they think
+hasn't been covered or if something was misunderstood.
 
-Sometimes I like to do this step on a projector, especially if there are a lot
+> Sometimes I like to do this step on a projector, especially if there are a lot
 of ideas to get through. I’ll take photos of each storyboard on my phone, upload
 them to Dropbox, put them in a Keynote file, then make notes about parts we like
 with outlines and text labels as we go through on the projector. This is easier
 for everyone to see, and you have a digital artifact of the ideas for later. The
 downside is the setup: count on 15 extra minutes to capture and upload photos.
+
+From [The product design sprint: diverge (day 2)](http://www.gv.com/lib/the-product-design-sprint-divergeday2#three-minute-critiques-3-minutes-per-idea)
