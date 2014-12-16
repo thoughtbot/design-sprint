@@ -5,6 +5,7 @@
 **Estimated time:** 5 min
 
 ## Best to use when
+
 Silent Critique is best to use after an individual thought process
 like [Storyboards](storyboards.md).
 It is a way to have a more unbiased and individual critique period.
@@ -35,6 +36,7 @@ vote for their own ideas.
 4. Jump into a [Group Critique](group-critique.md).
 
 ## Examples
+
 ![Silent Voting](images/silent-voting.jpg)
 ![Silent Voting](images/storyboards-2.jpg)
 ![Silent Voting](images/storyboard.jpg)

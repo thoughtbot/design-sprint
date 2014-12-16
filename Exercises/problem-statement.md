@@ -5,6 +5,7 @@
 **Estimated time:** 20 min
 
 ## Best to use when
+
 It is best to identify the job-to-be-done that the sprint
 is trying to solve as early in
 the process as possible.
@@ -29,4 +30,5 @@ What is this product, and is it useful?
    reflect back on.
 
 ## Example
+
 ![Problem Statement](images/problem-statement.jpg)

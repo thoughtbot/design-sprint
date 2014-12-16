@@ -5,6 +5,7 @@
 **Estimated time:** 15 min
 
 ## Best to use when
+
 The Critical Path should be discussed after a
 [Problem Statement](problem-statement.md) has been agreed upon.
 Once completed, the Critical Path should give a step-by-step map

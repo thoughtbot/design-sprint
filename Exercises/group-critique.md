@@ -5,6 +5,7 @@
 **Estimated time:** 3 minutes for each sketch
 
 ## Best to use when
+
 It is best to do a Group Critique after a Silent critique has already been done.
 It allows for in-depth discussion around the idea. It gives time for people to
 say what they thought was good about the idea and for the person that had the

@@ -5,6 +5,7 @@
 **Estimated time:** 20 min
 
 ## Best to use when
+
 Card sorting helps organize and understand how people perceive the information architecture for the application. It is best to use when there are a seemingly a lot of ideas and a lot to take in. Card sorting helps understand the many facets of a problem by giving you a top down view.
 
 > Card sorting will help you understand your users' expectations and understanding of your topics. It is often most useful once you have done some homework to find out about your users and understand your content.
@@ -13,6 +14,7 @@ Card sorting helps organize and understand how people perceive the information a
 
 
 ## Instructions
+
 #### Open Card Sorting - Best for Understand
 1. Take 5 minutes and have all participants write down as many ideas as possible on post-its. If people get stuck just have them write down what they think is the most important idea again and again till they come up with more.
 2. Have everyone put their post-its up on the wall and take a min to read over them. 
@@ -31,6 +33,7 @@ Card sorting helps organize and understand how people perceive the information a
 For more detailed explanation see [Card Sorting](http://robots.thoughtbot.com/card-sorting)
 
 ## Example
+
 ### Open Card Sorting
 ![Open Card Sorting](images/open-card-sorting.jpg)
 

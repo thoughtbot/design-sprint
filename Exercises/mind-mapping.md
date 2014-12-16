@@ -5,6 +5,7 @@
 **Estimated time:** 10–15 minutes
 
 ## Best to use when
+
 They are best used to warm up to other exercises
 like [Crazy Eights](crazy-eights.md).
 These are best for personal ideas,
@@ -17,6 +18,7 @@ along with Crazy Eights,
 [Silent Critique](silent-critique.md).
 
 ## Instructions
+
 > If you’re not familiar with mind mapping already, I often describe it as
 writing down everything in your head with no specific formatting; or quiet
 individual brainstorming. You can write words and connect them or not, you can

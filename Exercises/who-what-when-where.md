@@ -5,6 +5,7 @@
 **Estimated time:** 30 min
 
 ## Best to use when
+
 Who, What, When, Where is best to use to find out what the different
 questions are surrounding a topic or problem.
 It helps uncover problems that are underlying or associated with the main
@@ -16,6 +17,7 @@ It works really well with a large group of people to
 get them all on the same page quickly.
 
 ## Instructions
+
 1. Divide up the whiteboard into four sections and
 give each a title of Who, What, When, and Where.
 2. Start with Who.

@@ -5,12 +5,14 @@
 **Estimated time:** 30min for review
 
 ## Best to use when
+
 A lot of ideas will be generated throughout the week. Some of the ideas
 will be pertinent to the tasks at hand, but others, although interesting, won’t
 be. Capture these good but not immediately relevant back burner ideas on a
 sticky note board.
 
 ## Instructions
+
 1. Have a dedicated space to collect back burner ideas on the whiteboard.
 * Throughout the sprint have everyone write down ideas that are not directly
 solving the job-to-be-done

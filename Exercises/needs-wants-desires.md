@@ -5,6 +5,7 @@
 **Estimated time:** 30 min
 
 ## Best to use when
+
 Needs, Wants, Desires is a [Card Sorting](card-sorting.md)
 exercise to help figure out priorities.
 It's best to use when there are a lot of feature ideas
@@ -27,4 +28,5 @@ look at each section and the features in them
 and verify that each feature in is the appropriate section.
 
 ## Examples
+
 ![Needs, Wants, Desires](images/needs-wants-desires.jpg)

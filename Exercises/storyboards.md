@@ -5,6 +5,7 @@
 **Estimated time:** 20 min
 
 ## Best to use when
+
 Storyboards are great to use when the group has had some time to think
 individually about the problem and many possible solutions to it. Storyboards
 allow people to develop those early ideas further by giving them more time to

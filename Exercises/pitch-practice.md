@@ -5,6 +5,7 @@
 **Estimated time:** 5 min
 
 ## Best to use when
+
 It's best to practice the pitch several times throughout the sprint, typically
 at the beginning of each day.
 It makes sure that everyone is staying

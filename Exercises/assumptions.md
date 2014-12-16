@@ -4,6 +4,7 @@
 **Estimated time:** 30 minutes
 
 ## Best to use when
+
 It is best to always keep track of the assumptions
 that you and your team are making about
 your product through the life of the product.
@@ -26,6 +27,7 @@ and how you know if that assumption is valid.
 * Repeat till all assumptions have a test for them.
 
 ## Example
+
 ![Galen's Assumption Test board](http://images.thoughtbot.com/the-product-design-sprint/assumptions.jpg)
 
 From [The Product Design Sprint](http://robots.thoughtbot.com/the-product-design-sprint)

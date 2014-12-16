@@ -5,9 +5,11 @@
 **Estimated time:** 30 min
 
 ## Best to use when
+
 Five whys should be used to get to the very root of a reasons for a problem. It also shows the relationships between several causes of the problem. 
 
 ## Instructions
+
 1. Write down a specific problem
 2. Ask the team to individually write down why that is happening.
 3. Form a new problem from the answers the team gave.
@@ -15,6 +17,7 @@ Five whys should be used to get to the very root of a reasons for a problem. It 
 5. Analyze the results and form relationships between answers.
 
 ## Example
+
 - The vehicle will not start. (the problem)
 - Why? - The battery is dead. (first why)
 - Why? - The alternator is not functioning. (second why)
