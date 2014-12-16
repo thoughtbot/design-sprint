@@ -42,3 +42,10 @@ Make sure that each frame is understandable without further verbal explanation.
 4. Give the storyboard a title that encapsulates what is happening.
 5. Hang each story board on the wall with tape or a pin.
 6. Have either a Silent Critique, a Group Critique or both.
+
+## Examples
+
+![Individual Storyboards](images/storyboard.jpg)
+![Group of Storyboards](images/storyboards.jpg)
+![Group of Storyboards](images/storyboards-2.jpg)
+![Individual Storyboards](images/storyboard-2.jpg)

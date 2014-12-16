@@ -20,3 +20,7 @@ review all the ideas that have been put
 up on the wall.
 Trash any that aren't relevant anymore.
 * Record all ideas in a separate document or Trello.
+
+## Example
+
+![Back Burner](images/back-burner.jpg)

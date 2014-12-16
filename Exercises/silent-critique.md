@@ -33,3 +33,8 @@ many stickers you can use, and I don’t even prevent people who want to brazenl
 vote for their own ideas.
 3. By the end, you’ve got a kind of heat map, and some ideas are already standing out.
 4. Jump into a [Group Critique](group-critique.md).
+
+## Examples
+![Silent Voting](images/silent-voting.jpg)
+![Silent Voting](images/storyboards-2.jpg)
+![Silent Voting](images/storyboard.jpg)

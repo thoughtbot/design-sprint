@@ -27,3 +27,6 @@ What is this product, and is it useful?
 * Continue to refine language around the Problem Statement.
 * Leave up in a clear visible spot in the room so that it is easy to
    reflect back on.
+
+## Example
+![Problem Statement](images/problem-statement.jpg)

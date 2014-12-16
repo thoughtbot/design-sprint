@@ -29,3 +29,5 @@ and how you know if that assumption is valid.
 ![Galen's Assumption Test board](http://images.thoughtbot.com/the-product-design-sprint/assumptions.jpg)
 
 From [The Product Design Sprint](http://robots.thoughtbot.com/the-product-design-sprint)
+
+![Assumption Test Example](images/assumption-test.jpg)

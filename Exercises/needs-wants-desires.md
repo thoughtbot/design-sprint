@@ -25,3 +25,6 @@ while doing this.
 * Once all of the features are sorted, 
 look at each section and the features in them
 and verify that each feature in is the appropriate section.
+
+## Examples
+![Needs, Wants, Desires](images/needs-wants-desires.jpg)

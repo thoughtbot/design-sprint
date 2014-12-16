@@ -33,3 +33,11 @@ Sketches should be really rough.
 * Throughout the exercise continue to remind people of the time and make sure
 that it is clear which sketch they should be on.
 * Repeat as necessary.
+
+## Examples
+![Crazy Eights Example](images/crazy-eights.jpg)
+![Crazy Eights Example](images/crazy-six.jpg)
+![Crazy Eights Example](images/crazy-six-2.jpg)
+
+
+

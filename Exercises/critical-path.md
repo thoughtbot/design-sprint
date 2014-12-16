@@ -40,3 +40,5 @@ map out the steps of the user's journey through solving that problem
 The end result often looks like the map of a bus or subway line:
 ![Galen's Critical Path](http://images.thoughtbot.com/the-product-design-sprint/criticalpath.jpg) 
 From [The Product Design Sprint](http://robots.thoughtbot.com/the-product-design-sprint)
+
+![Example Critical Path](images/critical-path.jpg)

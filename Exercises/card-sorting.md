@@ -29,3 +29,11 @@ Card sorting helps organize and understand how people perceive the information a
 6. At the end of each participant’s session, take a picture of which content cards were matched to topic cards.
 
 For more detailed explanation see [Card Sorting](http://robots.thoughtbot.com/card-sorting)
+
+## Example
+### Open Card Sorting
+![Open Card Sorting](images/open-card-sorting.jpg)
+
+### Closed Card Sorting
+![Closed Card sorting Layout](http://images.thoughtbot.com/cardsorting/CardSorting-CardLayout.png)
+![Closed Card Sorting Gif](https://i.imgflip.com/cgcl3.gif)
