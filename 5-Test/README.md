@@ -46,7 +46,7 @@ how many people visit.
 
 ---
 
-## [Example Schedule for Validate](Schedule.md)
+### [Example Schedule for Validate](Schedule.md)
 
 ---
 

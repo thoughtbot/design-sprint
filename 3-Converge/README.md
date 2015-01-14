@@ -38,11 +38,11 @@ seems to be more ideas and no really strong direction forward.
 
 ---
 
-## [Example Schedule for Converge](Schedule.md)
+### [Example Schedule for Converge](Schedule.md)
 
 ---
 
-## Examples
+## Case Study
 
 > Because Great Engagements is an entirely new product, considering a customer’s
 > first encounter and reaction to the product is very important in terms of

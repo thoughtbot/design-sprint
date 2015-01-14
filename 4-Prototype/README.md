@@ -39,7 +39,7 @@ to speed up your design process.
 
 ---
 
-## Examples
+## Case Study
 
 ### [Great Engagements](http://greatengagements.herokuapp.com/)
 

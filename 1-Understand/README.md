@@ -98,4 +98,4 @@ Card sorting helps categorize and prioritize features, ideas and different conce
 
 --
 
-## [Example Schedule for Understand](Schedule.md)
+### [Example Schedule for Understand](Schedule.md)
