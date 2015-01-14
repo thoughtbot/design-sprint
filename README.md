@@ -120,6 +120,14 @@ we should have validated or invalidated
 our riskiest knowledge gaps and assumptions
 and have confidence in our next steps.
 
+## Example Design Sprint Schedule
+
+* [Schedule for Understand](1-Understand/Schedule.md)
+* [Schedule for Diverge](2-Diverge/Schedule.md)
+* [Schedule for Converge](3-Converge/Schedule.md)
+* [Schedule for Prototype](4-Prototype/Schedule.md)
+* [Schedule for Test](5-Test/Schedule.md)
+
 ## Further Reading
 
 * [thoughtbot's blog post](http://robots.thoughtbot.com/the-product-design-sprint)
