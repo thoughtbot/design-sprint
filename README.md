@@ -120,6 +120,17 @@ we should have validated or invalidated
 our riskiest knowledge gaps and assumptions
 and have confidence in our next steps.
 
+## [Design Sprint Trello Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
+
+Throughout the sprint you want to be recording as much as possible. 
+We've found Trello to be an excellent tool to help the team record the activities
+taken during the sprint. This template helps alleviate some of the initial setup
+for the board and leaves references to this repo.
+
+Copy [this template](https://trello.com/b/lMmuSlkP/public-design-sprint-template) 
+to your own board to help guide and document your sprint.
+
+
 ## Example Design Sprint Schedule
 
 * [Schedule for Understand](1-Understand/Schedule.md)
