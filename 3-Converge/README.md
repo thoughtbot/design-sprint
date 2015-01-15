@@ -4,6 +4,17 @@ During Converge our goal is to take all of the possibilities
 that we have exposed over the past two days and hone in on a single version of
 the prototype that we will build tomorrow.
 
+Throughout Converge, the team should be thinking about the bigger
+assumptions that are the most important to test.
+This should lead to a discussion
+about what [type of
+prototype](../4-Prototype#activities-for-prototype) will do the
+best job of validating or invalidating it.
+Activities such as
+[Assumption / Test Table](../Exercises/assumptions.md)
+and [Final Storyboard](#final-storyboard)
+should help the team engage this conversation.
+
 ---
 
 ## Activities for Converge
