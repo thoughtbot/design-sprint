@@ -34,7 +34,7 @@ Crazy eights are meant to generate a lot of ideas really quickly. With a forced
 time limit for each sketch people need to think quickly. Doing this exercise
 repetitively generates a lot of varied  ideas.
 
-#### [Story Boards](../Exercises/storyboards.md)
+#### [Storyboards](../Exercises/storyboards.md)
 
 This exercise mimics a movie storyboard. You'll be drawing a flow for the user
 by using Post-its as frames and writing out out a description next to it.
