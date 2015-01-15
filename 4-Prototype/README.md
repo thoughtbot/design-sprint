@@ -40,13 +40,17 @@ to speed up your design process.
 #### [Paper Prototype](http://alistapart.com/article/paperprototyping)
 
 Paper prototyping is as low-fi as you can get for a prototype.
-It is especially good when you are
+It is especially useful when you are
 under a time crunch to produce a prototype.
 It also allows for the whole team to contribute.
 Because the prototype is sketches on paper you are relying
 much more on the imagination of the participant.
 It gives you the ability to prototype on the fly,
- even during the session with the participant.
+even during the session with the participant.
+Tools like [Marvel](https://marvelapp.com/apps) 
+and [POP](https://popapp.in/) can help
+present sketches on a mobile device
+or in the browser so that it seems more real.
 
 ---
 
