@@ -13,26 +13,31 @@ completion.
 **Recorder** Takes notes, photographs and is in charge of the documentation for
 the sprint.
 
-**Product Owner** Typically the client and the person with the initial product vision. This person has final say in the product.
+**Product Owner** Typically the client and the person with the initial product vision. 
+This person has final say in the product.
 
 ### Set expectations for the outcome for the sprint
 
-The vast majority of these sprints ends with mixed results. Some of your
-solutions work, and some don’t. Make sure everyone understands that the  outcome 
-usually falls in one of three buckets:
+Sometimes, design sprints converge on solutions that are
+partially or completely invalidated.
+Some things will have worked, and others won't.
+Make sure everyone understands that the outcome
+falls in one of three buckets:
 
 - Most stuff worked
 
-This is pretty uncommon for the first sprint on a project, but if it happens to
-you, everyone on the team is probably on the same page about the fixes and
+This often doesn't happen during the first sprint on a project,
+but if it happens to you,
+everyone on the team is probably on the same page about the fixes and
 tweaks you need to make.
 
-What to do next: Tune your existing prototype and keep going. Try starting your
-next sprint at step 3 (decide).
+What to do next: Take a week to tune your existing prototype. Create a backlog
+for developers to start implementation of the most important features or API
+integrations.
 
 - Some big questions
 
-The most common outcome after a user study is a mixed bag: a few hits, a few
+A common outcome after a user study is a mixed bag: a few hits, a few
 tweaks, and a couple of real head-scratchers. Fortunately Keynote prototypes are
 easy to change, and as long as some parts of your design are solid, you can
 probably build on what you have.
@@ -43,13 +48,14 @@ with multiple solutions for the bigger problems. Start your next sprint at step
 
 - Everything exploded
 
-I’ve seen a lot of of my designs go up in flames. It’s OK. You learned that
-something didn’t work, and it only took you a few hours to build it in Keynote.
-This is great progress and — relative to building and launching for real — very
-cheap progress at that. Think what would have happened if you’d spent weeks or
+We've seen a lot of designs go up in flames, and that's OK. You learned that
+something didn’t work, and it only took you a few hours to build it.
+This is great progress, and very cheap relative to building 
+and launching a full product.
+Think what would have happened if you’d spent weeks or
 months implementing this solution!
 
-What to do next: Start your next sprint back at the drawing board with step 1 (understand). (Hint: the results of this study are perfect fodder for reviewing and building understanding as a group.)o
+What to do next: Start your next sprint back at the drawing board with step 1 (understand). (Hint: the results of this study are perfect fodder for reviewing and building understanding as a group.)
 
 ### Review design sprint documentation and schedule
 
@@ -84,7 +90,10 @@ room would have a whiteboard and a place to pin or tape up sketches. **Typically
  
 **Typically done by Facilitator.**
 
-### Set up users for the usability tests
+### Schedule 4–6 people for interviews / usability tests
 
 Only if users are already identified. Otherwise this should be held off till
-after Understand. **Typically done by Product Owner.**
+after Understand. During [Test](../5-Test), we'll be running a user study, showing the
+prototype to 4–6 real people. Learn [how to recruit great participants for your study
+here](http://www.designstaff.org/articles/recruiting-how-to-find-great-participants-for-your-user-study-2012-02-22.html).
+**Typically done by Product Owner.**
