@@ -6,6 +6,16 @@ been discussed in [Converge](../3-Converge). During this phase you will build a
 quick and dirty prototype. Since you only have at most a day to build the
 prototype it should be as low-fi as you can get away with during [Testing](../5-Test).
 
+During this phase roles shift. Designers are typically the ones building the
+prototype unless it is low-fi enough for everyone to contribute
+(see: [Keynote](#keynote) or [Paper Prototype](#paper-prototype)).
+Product Owners should be in charge of getting
+realistic information, data and copy into the prototype.
+It should be clear what everyone's role is
+before the phase starts.
+The team should check in with each other as much as possible
+to make sure everything is on the right track.
+
 ---
 
 ## Activities for Prototype
