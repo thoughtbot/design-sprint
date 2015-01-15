@@ -21,9 +21,11 @@ should help the team engage this conversation.
 
 #### Identify Conflicts
 
-Throughout Diverge there should have been many conflicting ideas. Go through all
-of the ideas and figure out where there are two valid ideas that solve the same
-problem.
+Throughout Diverge there should have been many conflicting ideas.
+A conflict is a place where there are two or more different approaches
+to solving the same problem.
+Conflicting approaches are helpful because they
+illuminate possible choices for your product.
 
 #### [Assumption / Test Table](../Exercises/assumptions.md)
 
@@ -38,8 +40,16 @@ applicable and throw away any that aren't.
 
 #### [Final Storyboard](../Exercises/storyboards.md)
 
-In this case the Storyboard should be a team effort and ideally what the team
-will be prototyping.
+In this case the Storyboard should be a team effort and should focus
+on what the team will be prototyping. This should be done on a whiteboard so
+everyone can see it.
+Start by drawing a comic book frame for each single action
+in the critical path.
+Don't worry too much about layout or design details. 
+Those can be figured out later.
+One person should be drawing but they shouldn't
+be the one figuring everything out. This
+should be a discussion between the whole sprint team.
 
 #### [3-12-3](../Exercises/3-12-3.md)
 
