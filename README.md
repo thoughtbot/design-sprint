@@ -20,6 +20,9 @@ It is written by and for the thoughtbot team.
 A product design sprint is a technique to
 quickly solve product design problems
 and test the viability of a solution.
+It has been pioneered by the
+[Google Ventures Design
+Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
 
 #### Why do a design sprint?
 
@@ -154,3 +157,4 @@ to your own board to help guide and document your sprint.
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
 * [Personal Design Sprint](http://franciscortez.com/design-sprint/)
 * [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
+* [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
