@@ -10,7 +10,7 @@ Test table](../Exercises/assumptions.md)
 
 ## Activities for Validate and Learn
 
-#### Gorilla Usability Testing
+#### Guerilla Usability Testing
 
 This is the most used form of testing. Bring in 4–6 potential users and show
 them the prototype that you made. Pay close attention to problems that they have
