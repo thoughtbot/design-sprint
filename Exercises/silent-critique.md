@@ -17,7 +17,7 @@ so that each person isn't presenting each of their own ideas.
 They are part of the [Google Ventures
 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2)
 day cycle along with
-[Mind Maps](mind-maps.md),
+[Mind Mapping](mind-mapping.md),
 [Crazy Eights](crazy-eights.md), and
 [Storyboards](storyboards.md).
 

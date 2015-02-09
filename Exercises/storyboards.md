@@ -14,7 +14,7 @@ dive into details of the interaction.
 They are part of the [Google Ventures
 Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2)
 day cycle along with
-[Mind Maps](mind-maps.md),
+[Mind Mapping](mind-mapping.md),
 [Crazy Eights](crazy-eights.md),
 [Silent Critique](silent-critique.md).
 
@@ -30,8 +30,8 @@ From [The product design sprint: diverge (day 2)](http://www.gv.com/lib/the-prod
 and put 3 sticky notes
 going down the side of the page.
 2. Choose an idea that you had previously from another exercise 
-like [Mind Maps](mind-maps.md)
-or [Crazy Eights](Crazy Eights)
+like [Mind Mapping](mind-mapping.md)
+or [Crazy Eights](crazy-eights.md)
 to put more thought and detail into.
 2. Each sticky note is one frame in the storyboard.
 The sticky note should be

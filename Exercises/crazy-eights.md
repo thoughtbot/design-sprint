@@ -15,7 +15,7 @@ ideas quickly.
 
 They are part of the [Google Ventures Diverge](http://www.gv.com/lib/the-product-design-sprint-divergeday2)
 day cycle along with 
-[Mind Maps](mind-maps.md),
+[Mind Mapping](mind-mapping.md),
 [Storyboards](storyboards.md),
 [Silent Critique](silent-critique.md).
 
