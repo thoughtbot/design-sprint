@@ -17,6 +17,36 @@ them the prototype that you made. Pay close attention to problems that they have
 and be sure to follow a script to cover the assumptions that you are testing.
 With their permission you can record these but it's best to see them as they happen.
 
+#### Ask Validation Questions
+
+After showing the prototype, ask each participant a question or two to gauge
+their excitement about using what the prototype could one day become. A variant
+of the [growth question popularized by Sean
+Ellis](http://www.startup-marketing.com/using-survey-io/) is a good way to do
+this. At thoughtbot, we sometimes phrase the question like:
+
+“On a scale from 0-10, how disappointed would you be if you could no longer use
+what you just experienced?”
+
+A variant of the [“Net Promoter”
+question](http://www.startuplessonslearned.com/2013/10/rapid-iteration-for-mobile-app.html)
+is another good question to ask:
+
+“On a scale of 0 to 10, how likely are you to recommend this to your friends or
+colleagues?”
+
+Before asking this, if the prototype didn’t include a scenario appropriate to
+the participant’s own use case, frame the question in terms of that use case
+first. Sometimes users and use cases differ and it’s not possible to customize
+the prototype for each participant. As an extreme example, if you prototyped an
+app for dogs but the participant was a cat owner instead, say “imagine this was
+an app about cats instead of dogs. On a scale of 0-10,...”
+
+Note that the answer to this question may not be what you want to hear. Design
+Sprints were created to maximize the chances of building something people want,
+so be prepared if the answer isn’t as resounding a ‘yes’ as you would like. See
+the [expectations](../0-Pre-Sprint/README.md) that were set before the sprint.
+
 #### [Closed Card Sorting](../Exercises/card-sorting.md)
 
 A design exercise that guides us toward creating the most coherent
