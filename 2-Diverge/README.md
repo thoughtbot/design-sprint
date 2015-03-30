@@ -61,4 +61,4 @@ seems to be more ideas and no really strong direction forward.
 
 ---
 
-### [Example Scedule](Schedule.md)
+### [Example Schedule](Schedule.md)
