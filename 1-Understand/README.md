@@ -79,7 +79,7 @@ Identifying the problem will help to determine if there is a problem, if that
 problem is solvable, and how to solve that problem. This step will be the first
 step to answering this question: What is this product, and is it useful?
 
-#### [Start an Back-burner Board](../Exercises/back-burner.md)
+#### [Start a Back-burner Board](../Exercises/back-burner.md)
 
 We will also be generating a lot of ideas throughout the week. Some of the ideas
 will be pertinent to the tasks at hand, but others, although interesting, won’t
