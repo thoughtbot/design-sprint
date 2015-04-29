@@ -29,7 +29,7 @@ illuminate possible choices for your product.
 
 #### [Assumption / Test Table](../Exercises/assumptions.md)
 
-Review all of the Assumptions that have been collected over the couse of the
+Review all of the Assumptions that have been collected over the course of the
 sprint. Decide a plan to test them and decide how to determine from the test if
 it is valid or not.
 
