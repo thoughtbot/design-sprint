@@ -113,7 +113,7 @@ should be determined by
 our time constraints
 and learning goals.
 
-#### [Test Phase](5-Validate)
+#### [Test Phase](5-Test)
 
 The Test phase
 tests our prototype
