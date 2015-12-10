@@ -29,7 +29,7 @@ of flashcards by grouping them.
 
 This is a good way to reach a bunch of potential users and see their answers.
 Create a simple form with [Google Forms](http://www.google.com/forms/about/)
-or [Formkeep](https://formkeep.com/).
+or [FormKeep](https://formkeep.com/).
 Post the form to forums or other places that would have ideal users on it.
 Make sure the form is easy to fill out
 and open ended enough to collect qualitative information.
@@ -40,8 +40,8 @@ To judge interest create a fake landing page with email collection.
 This could be something as simple
 as a [Launchrock](http://launchrock.co/) page
 or a [Squarespace](http://www.squarespace.com/) site or a
-completely custom site with a [Formforge](https://formkeep.com/) form
-for email collection. Run Google analytics and see how many people sign up and
+completely custom site with a [FormKeep](https://formkeep.com/) form
+for email collection. Run Google Analytics and see how many people sign up and
 how many people visit.
 
 ---
