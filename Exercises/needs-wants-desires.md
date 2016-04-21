@@ -14,7 +14,7 @@ important.
 
 ## Instructions:
 
-1. List outfeature ideas on Post-its.
+1. List out feature ideas on Post-its.
 * Divide up the whiteboard into 3 sections: Needs, Wants, and Desires
 * For the first feature, 
 add it to *Needs* if it is critical to the job to be done,
