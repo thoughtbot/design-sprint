@@ -18,7 +18,7 @@ forward with because we have explored so many alternatives.
 
 These are the core of the [Google Ventures Design Sprint Diverge
 Day](http://www.gv.com/lib/the-product-design-sprint-divergeday2).
-They go through each of these exercises in the oder that they appear
+They go through each of these exercises in the order that they appear
 and expect ideas to build upon each other while doing them. It is best to split
 up the [Critical path](../Exercises/critical-path.md) into 
 stand alone parts and do this cycle for each part.
