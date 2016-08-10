@@ -139,7 +139,6 @@ to your own board to help guide and document your sprint.
 * [Schedule for Understand](1-Understand/Schedule.md)
 * [Schedule for Diverge](2-Diverge/Schedule.md)
 * [Schedule for Converge](3-Converge/Schedule.md)
-* [Schedule for Prototype](4-Prototype/Schedule.md)
 * [Schedule for Test](5-Test/Schedule.md)
 
 ## Further Reading
