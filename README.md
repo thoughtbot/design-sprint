@@ -125,12 +125,12 @@ and have confidence in our next steps.
 
 ## [Design Sprint Trello Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 
-Throughout the sprint you want to be recording as much as possible. 
+Throughout the sprint you want to be recording as much as possible.
 We've found Trello to be an excellent tool to help the team record the activities
 taken during the sprint. This template helps alleviate some of the initial setup
 for the board and leaves references to this repo.
 
-Copy [this template](https://trello.com/b/lMmuSlkP/public-design-sprint-template) 
+Copy [this template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 to your own board to help guide and document your sprint.
 
 
@@ -145,7 +145,7 @@ to your own board to help guide and document your sprint.
 ## Further Reading
 
 * [thoughtbot's blog post](http://robots.thoughtbot.com/the-product-design-sprint)
-* [thoughtbot playbook](http://playbook.thoughtbot.com/#product-design-sprint)
+* [thoughtbot playbook](https://thoughtbot.com/playbook/product-design-sprint/introduction)
 * Google Ventures [Design Staff blog posts](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html)
   * [Before the sprint: Prepare](http://www.designstaff.org/articles/product-design-sprint-2-2012-10-09.html)
   * [Day 1: Understand](http://www.designstaff.org/articles/product-design-sprint-day-1-understand-2012-10-16.html)
