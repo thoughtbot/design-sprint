@@ -25,7 +25,7 @@ Originally based on the
 ## Instructions
 
 1. Hand out blank paper and Sharpies to all participants.
-* Have everyone fold a sheet of paper in half 4 times so they all have 8 panels
+* Have everyone fold a sheet of paper in half 3 times so they all have 8 panels
 on the sheet.
 * Give 5 minutes total to draw eight sketches of user interaction,
 40 seconds for each panel.
