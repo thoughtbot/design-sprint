@@ -2,7 +2,7 @@
 
 Day one of the design sprint is about gathering all existing
 information/knowledge on the business, the customer and the problem and exposing
-our assumptions and knowledge gaps. From here can make plans to fill the
+our assumptions and knowledge gaps. From here we can make plans to fill the
 riskiest knowledge gaps and validate or invalidate our riskiest assumptions.
 
 Throughout Understand you should be working on defining the business, who is
