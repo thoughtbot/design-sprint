@@ -33,6 +33,15 @@ Sprints are useful when kicking off a new
 business, product, feature, or workflow.
 Sprints can also be used to solve problems with an existing product.
 
+Un sprint design oriente l'équipe et oriente les efforts vers un but commun.
+La pensée design et les sprints design de produits permettent de se focaliser sur la cible et investir notre temps et notre argent judicieusement.
+
+Les sprints sont utiles lors du lancement d'un nouveau sprint.
+l'entreprise, le produit, la caractéristique ou le flux de travail.
+Les sprints peuvent également être utilisés pour résoudre des problèmes avec un produit existant.
+
+Traduit avec www.DeepL.com/Translator
+
 #### What should you expect to have at the end of a design sprint?
 
 At the end of the sprint,
@@ -179,5 +188,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MjM0MjI0XX0=
+eyJoaXN0b3J5IjpbLTE4NjE4MjAzOTddfQ==
 -->
