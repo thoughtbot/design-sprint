@@ -53,14 +53,11 @@ Chaque phase à une durée d'une journée.
 
 #### [Pre-Sprint](0-Pre-Sprint)
 
-We should not start a sprint without defining a "job to be done" as the focus of the sprint.
-The "job to be done" may evolve during the sprint into a problem statement agreed upon by the whole team, but without one as a starting point our client is not ready and should not be paying us.
-
 Nous ne devrions pas commencer un sprint sans se mettre d'accord sur la définition du "travail à faire" ou TAF (*job to be done*) comme le point central du sprint.
-Le "TAF" peut évoluer au cours du sprint vers un énoncé de problème accepté par toute l'équipe, mais sans un tel énoncé comme point de départ, le client n'est pas prêt et ne devrait pas nous payer.
+Le "TAF" peut évoluer au cours du sprint vers un énoncé de problème accepté par toute l'équipe, mais sans un tel énoncé comme point de départ, le client ne sera pas prêt et ne devrait pas nous payer.
 
 
-#### [Understand Phase](1-Understand)
+#### [Pgase de compréhe](1-Understand)
 
 The Understand phase
 develops a common understanding
@@ -182,5 +179,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU4NjAxMzldfQ==
+eyJoaXN0b3J5IjpbMTc1ODU5MjkxM119
 -->
