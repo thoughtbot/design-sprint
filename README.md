@@ -75,27 +75,16 @@ Il faut mettre au jour les lacunes et les hypothèses risquées en matière de c
 
 #### [Phase de divergence ](2-Diverge)
 
-The Diverge phase generates insights and concepts for solutions.
-Our goal is to explore as many possibilities as possible, regardless of how feasible or viable.
-Insights are born from this explosion of possibilities by considering the implications of radically different approaches to solving a problem.
-These insights can become valuable differentiating forces and the source of inspiration for unique solutions.
-
 La phase de Divergence génère des idées et des concepts de solutions.
 Notre objectif est d'explorer autant de possibilités que possible, indépendamment de leur faisabilité ou de leur viabilité.
-Des aperçus naissent de cette explosion de possibilités en considérant les implications d'approches radicalement différentes pour résoudre un problème.
-Ces connaissances peuvent devenir des forces différenciatrices précieuses et la source d'inspiration pour des solutions uniques.
+Des perspectives naissent de cette explosion de possibilités en considérant les implications d'approches radicalement différentes pour résoudre un problème.
+Ces perspectives peuvent devenir des forces différenciatrices précieuses et la source d'inspiration pour des solutions uniques.
 
-Traduit avec www.DeepL.com/Translator
 
-#### [Converge Phase](3-Converge)
+#### [Phase de convergence](3-Converge)
 
-The Converge phase
-takes all the possibilities generated over the past two phases
-and hones in on a single version
-to prototype
-and test with existing or potential customers.
-By exploring and eliminating so many options,
-we have reason to be more confident in our choices.
+The Converge phase takes all the possibilities generated over the past two phases and hones in on a single version to prototype and test with existing or potential customers.
+By exploring and eliminating so many options, we have reason to be more confident in our choices.
 
 #### [Prototype Phase](4-Prototype)
 
@@ -175,5 +164,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU4OTIzNDldfQ==
+eyJoaXN0b3J5IjpbLTY2ODI1NTA5Nl19
 -->
