@@ -4,13 +4,13 @@
 
 Ce repo est une collection de documents destinés à guider un "Design Sprint" (sprint de conception). Il contient des directives qui ne doivent pas être suivies à la lettre. Chaque sprint doit être adapté au projet individuel. Il est écrit par et pour l'équipe de thoughtbot. Il s'agit d'une traduction libre en français de F Grimonpont.
 
-* [Previous Sprints](Previous-Sprints)
-* [Pre-Sprint Preparation](0-Pre-Sprint)
-* [Understand Phase](1-Understand)
-* [Diverge Phase](2-Diverge)
-* [Converge Phase](3-Converge)
-* [Prototype Phase](4-Prototype)
-* [Test Phase](5-Test)
+* [Sprints Prcédents](Previous-Sprints)
+* [Pré-Sprint la préparation](0-Pre-Sprint)
+* [Lundi : Phase de comprehénesion](1-Understand)
+* [Mardi : Phase de divergence](2-Diverge)
+* [Mercredi : Phase de convergence](3-Converge)
+* [Jeudi : Phase de prototypage](4-Prototype)
+* [Vendredi : Phase de Test](5-Test)
 
 ## Qu'est-ce qu'un sprint Design ?
 
@@ -56,6 +56,8 @@ Chaque phase à une durée d'une journée.
 Nous ne devrions pas commencer un sprint sans se mettre d'accord sur la définition du "travail à faire" ou TAF (*job to be done*) comme le point central du sprint.
 Le "TAF" peut évoluer au cours du sprint vers un énoncé de problème accepté par toute l'équipe, mais sans un tel énoncé comme point de départ, le client ne sera pas prêt et ne devrait pas nous payer.
 
+Voir en detail la phase de [pré-Sprint](0-Pre-Sprint)
+
 
 #### [Phase de compréhension](1-Understand)
 
@@ -65,6 +67,7 @@ son travail à faire,
 et l'entreprise que notre client espère aider avec le travail à faire.
 Il faut mettre au jour les lacunes et les hypothèses risquées en matière de connaissances afin de pouvoir faire des plans pour réduire ces risques et aller de l'avant avec confiance. L'objectif est d'augmenter la connaissance du projet dès le début.
 
+Voir en détail la [phase de compréhension](1-Understand)
 
 
 #### [Phase de divergence ](2-Diverge)
@@ -74,11 +77,14 @@ Notre objectif est d'explorer autant de possibilités que possible, indépendamm
 Des perspectives naissent de cette explosion de possibilités en considérant les implications d'approches radicalement différentes pour résoudre un problème.
 Ces perspectives peuvent devenir des forces différenciatrices précieuses et la source d'inspiration pour des solutions uniques.
 
+Voir en détail la [phase de divergence ](2-Diverge)
 
 #### [Phase de convergence](3-Converge)
 
 La phase de Convergence reprend toutes les possibilités générées au cours des deux dernières phases et s'affine sur une seule version pour prototyper et tester avec des clients existants ou potentiels.
 En explorant et en éliminant tant d'options, cela renforce la confiance dans les choix.
+
+Voir en détail la  [phase de convergence](3-Converge)
 
 #### [Phase de prototypage](4-Prototype)
 
@@ -86,12 +92,17 @@ La phase Prototypage comme son nom l'indique développe un prototype qui comble 
 Les prototypes en papier, sous forme de Keynote ou PowerPoint , les pages HTML/CSS statiques sont tous des médiums valables.
 Le médium devrait être déterminé par nos contraintes de temps et nos objectifs d'apprentissage.
 
+Voir en d"tail la [phase de prototypage](4-Prototype)
+
 #### [Phase de Test](5-Test)
 
 Cette phase permet de tester le prototype avec de véritables clients ou des utilisateurs potentiels.
 À la fin de cette phase, nous devrions avoir validé ou invalidé nos lacunes et hypothèses les plus risquées en matière de connaissances et avoir confiance dans nos prochaines étapes.
 
-## [modèle de Design Sprint sur Trello](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
+Vir en détail la [phase de Test](5-Test)
+
+
+## [Modèle de Design Sprint sur Trello](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 
 Tout au long du sprint, il faut enregistrer les activités tout autant que possible.
 L'équipe de Thoughtbot a trouvé que Trello était un excellent outil pour aider l'équipe à enregistrer les activité effectués pendant le sprint. Ce Template vous  permettra d'en faciliter la mise en oeuvre (le Trello est en anglais).
