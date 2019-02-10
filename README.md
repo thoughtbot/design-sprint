@@ -127,7 +127,7 @@ We've found Trello to be an excellent tool to help the team record the activitie
 taken during the sprint. This template helps alleviate some of the initial setup
 for the board and leaves references to this repo.
 
-Cppiez [this template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
+Copiez [this template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 to your own board to help guide and document your sprint.
 
 
@@ -179,5 +179,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjcwMjkzNzldfQ==
+eyJoaXN0b3J5IjpbNzY3OTA4OTg4XX0=
 -->
