@@ -67,9 +67,9 @@ We want to expose risky knowledge gaps and assumptions so we can make plans to r
 
 La phase "Comprendre" développe une compréhension commune du contexte dans lequel nous travaillons et de tous les éléments de ce contexte :
 le client,
-leur travail à faire,
-et l'entreprise que notre client espère soutenir en servant le travail à faire.
-Nous voulons mettre au jour les lacunes et les hypothèses risquées en matière de connaissances afin de pouvoir faire des plans pour réduire ces risques et aller de l'avant avec confiance.
+son travail à faire,
+et l'entreprise que notre client espère aider avec le travail à faire.
+Il faut mettre au jour les lacunes et les hypothèses risquées en matière de connaissances afin de pouvoir faire des plans pour réduire ces risques et aller de l'avant avec confiance. L'objectif est d'augmenter la connaissance du proje
 
 Traduit avec www.DeepL.com/Translator
 
@@ -175,5 +175,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjUwMzMxNV19
+eyJoaXN0b3J5IjpbOTMyODg1MTgzXX0=
 -->
