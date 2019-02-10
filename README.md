@@ -14,14 +14,14 @@ Ce repo est une collection de documents destinés à guider un "Design Sprint" (
 
 ## What is a producQu'est-ce qu'un sprint dDesign sprint?
 
-A product design sprint is a technique to
-quickly solve product design problems
-and test the viability of a solution.
-It has been pioneered by the
+Un sprint de conception de produit est une technique pour
+résoudre rapidement les problèmes de conception de produits
+et tester la viabilité d'une solution.
+Il a été mis au point par
 [Google Ventures Design
 Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
 
-#### Why do a design sprint?
+#### Pourquoi faire un sprint design?
 
 A design sprint orients the team
 and aims our efforts toward a mutual goal.
@@ -179,5 +179,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTA4Mjc1Nl19
+eyJoaXN0b3J5IjpbOTA3MjM0MjI0XX0=
 -->
