@@ -59,16 +59,19 @@ Le "TAF" peut évoluer au cours du sprint vers un énoncé de problème accepté
 
 #### [Phase de compréhension](1-Understand)
 
-The Understand phase
-develops a common understanding
-of the context within which we are working
-and all the elements in that context:
+The Understand phase develops a common understanding of the context within which we are working and all the elements in that context:
 the customer,
 their job to be done,
 and the business our client hopes to support by servicing the job to be done.
-We want to expose risky knowledge gaps and assumptions
-so we can make plans to reduce those risks
-and move forward with confidence.
+We want to expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
+
+La phase "Comprendre" développe une compréhension commune du contexte dans lequel nous travaillons et de tous les éléments de ce contexte :
+le client,
+leur travail à faire,
+et l'entreprise que notre client espère soutenir en servant le travail à faire.
+Nous voulons mettre au jour les lacunes et les hypothèses risquées en matière de connaissances afin de pouvoir faire des plans pour réduire ces risques et aller de l'avant avec confiance.
+
+Traduit avec www.DeepL.com/Translator
 
 #### [Diverge Phase](2-Diverge)
 
@@ -172,5 +175,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODkzNjQ2OThdfQ==
+eyJoaXN0b3J5IjpbMjAxNjUwMzMxNV19
 -->
