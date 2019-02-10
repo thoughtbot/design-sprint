@@ -69,23 +69,23 @@ La phase "Comprendre" développe une compréhension commune du contexte dans leq
 le client,
 son travail à faire,
 et l'entreprise que notre client espère aider avec le travail à faire.
-Il faut mettre au jour les lacunes et les hypothèses risquées en matière de connaissances afin de pouvoir faire des plans pour réduire ces risques et aller de l'avant avec confiance. L'objectif est d'augmenter la connaissance du proje
+Il faut mettre au jour les lacunes et les hypothèses risquées en matière de connaissances afin de pouvoir faire des plans pour réduire ces risques et aller de l'avant avec confiance. L'objectif est d'augmenter la connaissance du projet dès le début.
+
+
+
+#### [Phase de divergence ](2-Diverge)
+
+The Diverge phase generates insights and concepts for solutions.
+Our goal is to explore as many possibilities as possible, regardless of how feasible or viable.
+Insights are born from this explosion of possibilities by considering the implications of radically different approaches to solving a problem.
+These insights can become valuable differentiating forces and the source of inspiration for unique solutions.
+
+La phase de Divergence génère des idées et des concepts de solutions.
+Notre objectif est d'explorer autant de possibilités que possible, indépendamment de leur faisabilité ou de leur viabilité.
+Des aperçus naissent de cette explosion de possibilités en considérant les implications d'approches radicalement différentes pour résoudre un problème.
+Ces connaissances peuvent devenir des forces différenciatrices précieuses et la source d'inspiration pour des solutions uniques.
 
 Traduit avec www.DeepL.com/Translator
-
-#### [Diverge Phase](2-Diverge)
-
-The Diverge phase
-generates insights and concepts for solutions.
-Our goal is to explore as many possibilities as possible,
-regardless of how feasible or viable.
-Insights are born from this explosion of possibilities
-by considering the implications of
-radically different approaches to solving a problem.
-These insights can become
-valuable differentiating forces
-and the source of
-inspiration for unique solutions.
 
 #### [Converge Phase](3-Converge)
 
@@ -175,5 +175,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyODg1MTgzXX0=
+eyJoaXN0b3J5IjpbLTEwMjU4OTIzNDldfQ==
 -->
