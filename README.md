@@ -117,8 +117,7 @@ taken during the sprint. This template helps alleviate some of the initial setup
 for the board and leaves references to this repo.
 
 Tout au long du sprint, il faut enregistrer les activités tout autant que possible.
-Nous avons trouvé que Trello était un excellent outil pour aider l'équipe à enregistrer les activités.
-prises pendant le sprint. Ce gabarit permet d'alléger une partie de l'installation initiale.
+L'équipe de Thoughtbot a trouvé que Trello était un excellent outil pour aider l'équipe à enregistrer les activité effectués pendant le sprint. Ce Template vous  permettra d'en faciliter la mise en oeuv.
 pour le conseil d'administration et laisse des références à ce repo.
 
 
@@ -167,5 +166,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mjk1NzEwMV19
+eyJoaXN0b3J5IjpbNTY1MzEwNDQ5XX0=
 -->
