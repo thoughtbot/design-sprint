@@ -12,7 +12,7 @@ Ce repo est une collection de documents destinés à guider un "Design Sprint" (
 * [Prototype Phase](4-Prototype)
 * [Test Phase](5-Test)
 
-## What is a product design sprint?
+## What is a producQu'est-ce qu'un sprint dDesign sprint?
 
 A product design sprint is a technique to
 quickly solve product design problems
@@ -178,3 +178,6 @@ Copyright © 2015 [thoughtbot, inc](http://thoughtbot.com).
 The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA0NTA4Mjc1Nl19
+-->
