@@ -151,5 +151,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMTEwNzRdfQ==
+eyJoaXN0b3J5IjpbMTM4NTUyMjEzLDI5MzExMDc0XX0=
 -->
