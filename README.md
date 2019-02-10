@@ -106,7 +106,7 @@ Le médium devrait être déterminé par nos contraintes de temps et nos objecti
 The Test phase tests our prototype with existing or potential customers.
 By the end of this phase, we should have validated or invalidated our riskiest knowledge gaps and assumptions and have confidence in our next steps.
 
-Cette phase permet de tester le prototype avec de véritables clients existants ou potentiels.
+Cette phase permet de tester le prototype avec de véritables clients ou des utilisateurs potentiels.
 À la fin de cette phase, nous devrions avoir validé ou invalidé nos lacunes et hypothèses les plus risquées en matière de connaissances et avoir confiance dans nos prochaines étapes.
 
 ## [Design Sprint Trello Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
@@ -115,6 +115,12 @@ Throughout the sprint you want to be recording as much as possible.
 We've found Trello to be an excellent tool to help the team record the activities
 taken during the sprint. This template helps alleviate some of the initial setup
 for the board and leaves references to this repo.
+
+Tout au long du sprint, il faut enregistrer les activités tout autant que possible.
+Nous avons trouvé que Trello était un excellent outil pour aider l'équipe à enregistrer les activités.
+prises pendant le sprint. Ce gabarit permet d'alléger une partie de l'installation initiale.
+pour le conseil d'administration et laisse des références à ce repo.
+
 
 Copiez [this template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 to your own board to help guide and document your sprint.
@@ -161,5 +167,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzkyNzc4M119
+eyJoaXN0b3J5IjpbMTc0Mjk1NzEwMV19
 -->
