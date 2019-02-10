@@ -97,6 +97,10 @@ static HTML/CSS pages
 are all valid mediums.
 The medium should be determined by our time constraints and learning goals.
 
+La phase Prototypage comme son nom l'indique développe un prototype qui comble les lacunes et les hypothèses les plus risquées de nos connaissances. 
+Les prototypes en papier, sous forme de Keynote ou PowerPoint , les pages HTML/CSS statiques sont tous des médiums valables.
+Le médium devrait être déterminé par nos contraintes de temps et nos objectifs d'apprentissage.
+
 #### [Test Phase](5-Test)
 
 The Test phase
@@ -159,5 +163,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY1OTA2OTRdfQ==
+eyJoaXN0b3J5IjpbNjY1MjE2NjUzXX0=
 -->
