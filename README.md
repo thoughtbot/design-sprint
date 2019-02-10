@@ -2,10 +2,7 @@
 
 # Product Design Sprint
 
-This repo is a collection of documents intended to help guide a design sprint.
-It contains guidelines that should not be followed exactly.
-Each sprint should be tailored to the individual project.
-It is written by and for the thoughtbot team.
+Ce repo est une collection de documents destinés à guider un "Design Sprint" (sprint de conception). Il contient des directives qui ne doivent pas être suivies à la lettre. Chaque sprint doit être adapté au projet individuel. Il est écrit par et pour l'équipe de thoughtbot. Il s'agit d'une traduction libre en français de F Grimonpont.
 
 * [Previous Sprints](Previous-Sprints)
 * [Pre-Sprint Preparation](0-Pre-Sprint)
