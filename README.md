@@ -101,15 +101,13 @@ La phase Prototypage comme son nom l'indique développe un prototype qui comble 
 Les prototypes en papier, sous forme de Keynote ou PowerPoint , les pages HTML/CSS statiques sont tous des médiums valables.
 Le médium devrait être déterminé par nos contraintes de temps et nos objectifs d'apprentissage.
 
-#### [Test Phase](5-Test)
+#### [Phase de Test](5-Test)
 
-The Test phase
-tests our prototype
-with existing or potential customers.
-By the end of this phase,
-we should have validated or invalidated
-our riskiest knowledge gaps and assumptions
-and have confidence in our next steps.
+The Test phase tests our prototype with existing or potential customers.
+By the end of this phase, we should have validated or invalidated our riskiest knowledge gaps and assumptions and have confidence in our next steps.
+
+Cette phase permet de tester le prototype avec de véritables clients existants ou potentiels.
+À la fin de cette phase, nous devrions avoir validé ou invalidé nos lacunes et hypothèses les plus risquées en matière de connaissances et avoir confiance dans nos prochaines étapes.
 
 ## [Design Sprint Trello Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 
@@ -163,5 +161,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1MjE2NjUzXX0=
+eyJoaXN0b3J5IjpbMTQwNzkyNzc4M119
 -->
