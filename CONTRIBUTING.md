@@ -1,9 +1,14 @@
 We love new ideas that push this repository and design sprints forward. We are using [GitHub issues](https://github.com/thoughtbot/design-sprint/issues/) for tracking our work on the repository. Here are the ways that you can contribute:
 
-## Maintenance and Improvements
+## Améliorations et corrections
 If you find a bug, misspelling or other problem with the repository please add a new [issue](https://github.com/thoughtbot/design-sprint/issues/new).
-
-If you are looking to contribute and are not sure where to start: 
+                                                                  
+                                                                  If you are looking to contribute and are not sure where to start: 
+                                                                  
+                                                                  
+Si vous trouvez un bogue, une faute d'orthographe ou tout autre problème avec le référentiel, veuillez ajouter un nouveau[numéro] (https://github.com/thoughtbot/design-sprint/issues/new).
+                                                                  
+Si vous cherchez à contribuer et que vous ne savez pas par où commencer : 
 
 1. Grab an issue from the list of [issues labeled bug](https://github.com/thoughtbot/design-sprint/labels/bug) and assign yourself to the issue so that we know someone is working on it. 
 2. Make the necessary changes.

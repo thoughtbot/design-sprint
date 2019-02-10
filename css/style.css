@@ -1,0 +1,459 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+/*@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400);*/
+
+
+
+.fb_iframe_widget span {
+	vertical-align: top !important;
+}
+
+body {
+	/*font-family: 'Open Sans', "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+	font-family: 'Roboto', "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   	font-weight: 300;
+   	line-height: normal;
+}
+
+h1, h2, h3 {
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h2 {
+	font-size: 2rem;
+	line-height: 3rem;
+	margin-bottom: 1.1rem;
+}
+
+strong{font-weight: bold}
+
+/* clearfix */
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	*zoom: 1;
+}
+/* end clearfix */
+
+*, *:after, *:before {
+	box-sizing: border-box;
+}
+
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+
+
+.rotate {
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+a {
+	color: #00F;
+	text-decoration: none;
+	white-space: nowrap;
+}
+.no-touch a:hover {
+	text-decoration: underline;
+}
+a i {
+	color: #DEDEDE;
+}
+.no-touch a:hover i {
+	color: #CECECE;
+}
+p {
+	margin-bottom: 10px;
+	font-size: 0.9em;
+}
+
+.white-popup {
+	position: relative;
+	background: #FFF;
+	padding: 20px;
+	width: auto;
+	max-width: 500px;
+	margin: 20px auto;
+}
+
+button,
+.button {
+	border-radius: 5px;
+	background-color: #369;
+	color: #FFF;
+	font-size: 0.9em;
+	padding: 5px 10px;
+	margin-left: 5px;
+	cursor: pointer;
+	border: none;
+}
+.no-touch button:hover,
+.no-touch .button:hover {
+	background-color: #47B;
+	text-decoration: none;
+	border-bottom: none;
+}
+button i,
+.button i {
+	margin-right: 10px;
+	color: #FFF;
+}
+.no-touch a:hover i {
+	color: #FFF;
+}
+#reset {
+	background-color: transparent;
+	border: 1px solid #DF5941;
+	color: #DF5941;
+}
+#reset i {
+	color: inherit;
+}
+.no-touch #reset:hover, #signin {
+	background-color: #DF5941;
+	color: #FFF;
+}
+.no-touch #signin:hover {
+	background-color: #CF4931;
+}
+#github {
+	background-color: #999;
+	color: #FFF;
+}
+
+#header {
+    padding: 0.8rem;
+    text-align: center;
+}
+#header h1 {
+	display: inline-block;
+	padding: 5px;
+	font-size: 2.5rem;
+}
+small {
+	font-size: 0.7em;
+}
+
+#sharebox ul li {
+	display: inline-block;
+	vertical-align: top
+}
+
+#title, #gdrivebox {
+	margin-bottom: 10px;
+}
+
+#footer {
+    padding: 1.25rem;
+    text-align: center;
+}
+#mc_embed_signup,
+#credits,
+#toolbar {
+    margin-bottom: 20px;
+}
+#inspiredby {
+    margin-top: 20px;
+    font-size: 0.8em;
+}
+#footer .typeform-share {
+	display: inline-block;
+	border-radius: 5px;
+	background-color: #369;
+	color: #FFF;
+	font-size: 0.9em;
+	line-height: normal;
+	padding: 5px 10px;
+	margin-left: 10px;
+	text-decoration: none !important;
+	border-bottom: none;
+}
+.no-touch #footer .typeform-share:hover {
+	background-color: #47B;
+}
+
+.title {
+	color: #FFF;
+    background: #369;
+    padding: 0.8rem 1.25rem;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.title span{
+	color: #000;
+	font-size: 1.2rem;
+	font-weight: bold;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#Research, #Row1 { background: #B3C126; }
+#Plan, #Row2 { background: #FECC2F; }
+#Explore, #Row3 { background: #F8A227; }
+#Communicate, #Row4 { background: #F46320; }
+#Create, #Row5 { background: #DB3937; }
+#Feedbacks, #Row6 { background: #EE6579; }
+#Finalise, #Row7 { background: #A164D9; }
+#Delight, #Row8 { background: #40A4D8; }
+#Analyse, #Row9 { background: #33BEB7; }
+
+.Research, .Row1 { color: #B3C126; }
+.Plan, .Row2 { color: #FECC2F; }
+.Explore, .Row3 { color: #F8A227; }
+.Communicate, .Row4 { color: #F46320; }
+.Create, .Row5 { color: #DB3937; }
+.Feedbacks, .Row6 { color: #EE6579; }
+.Finalise, .Row7 { color: #A164D9; }
+.Delight, .Row8 { color: #40A4D8; }
+.Analyse, .Row9 { color: #33BEB7; }
+
+a.Row1, a.Row2, a.Row3, a.Row4, a.Row5, a.Row6, a.Row7, a.Row8, a.Row9 {
+	font-weight: bold;
+	font-size: 1.1rem;
+}
+
+
+
+.cards {
+	border: 1px solid #f1f1f1;
+	padding:20px;
+	padding: 1.25rem;
+	position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-basis: 100%;
+	    -ms-flex-preferred-size: 100%;
+	        flex-basis: 100%;
+	-webkit-flex-shrink: 0;
+	    -ms-flex-negative: 0;
+	        flex-shrink: 0;
+	-webkit-box-flex: 2;
+	-webkit-flex-grow: 2;
+	    -ms-flex-positive: 2;
+	        flex-grow: 2;
+}
+
+.cards div.img {
+	margin-bottom: 10px;
+	-webkit-flex-shrink: 0;
+	    -ms-flex-negative: 0;
+	        flex-shrink: 0;
+}
+
+.cards .img img {
+    width: 64px;
+    height: 64px;
+	display:none;
+}
+
+.cards .right {
+	-webkit-flex-shrink: 0;
+	    -ms-flex-negative: 0;
+	        flex-shrink: 0;
+}
+
+.card-content {
+	padding: 0 10px;
+	-webkit-box-flex: 3;
+	-webkit-flex-grow: 3;
+	    -ms-flex-positive: 3;
+	        flex-grow: 3;
+}
+
+.card-content label {
+	display: block;
+	font-size: 1.4em;
+	margin-bottom: 0.5em;
+	cursor: pointer;
+	font-weight: 700;
+}
+
+.card-content p {
+	font-size: 0.9em;
+	line-height: normal;
+	padding-right: 10px;
+}
+
+
+#mc_embed_signup label {
+	width: 100%;
+	text-align: center;
+	display: block;
+	margin-bottom: 10px;
+}
+#mc_embed_signup input {
+	border: 1px solid #e6e6e6;
+	-webkit-appearance: none;
+	padding: 8px 10px;
+	border-radius: 5px;
+	font-size: 0.9em;
+	font-weight: lighter;
+}
+
+#gdrivebox span {
+	font-size: 0.9em;
+	display: none;
+}
+
+
+div.title img.left {
+	width: 46px;
+	height: 46px;
+	padding : 3px;
+	margin-top: -10px;
+	margin-right: 10px;
+	background-color: #FFF;
+	border-radius: 50%;
+}
+
+.nomobile{
+	display: none;
+}
+
+@media (min-width: 1024px) {
+	body {
+		font-family: 'Roboto', "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	}
+
+	.nomobile{
+		background-color: rgba(64, 146, 210, 0.32);
+	}
+
+	.row {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-align-items: stretch;
+	}
+
+	.title {
+		position: relative;
+		color: #FFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-shrink: 0;
+	    -ms-flex-negative: 0;
+	        flex-shrink: 0;
+		width: 50px;
+        padding: 0;
+	}
+
+	.title span {
+		/* Abs positioning makes it not take up vert space  */
+	    position: absolute;
+	    bottom: -10px;
+	    left: 3px;
+		color: #000;
+		font-family: 'IBM Plex Sans', sans-serif;
+	    /* Border is the new background */
+	    background: none;
+	    
+	    /* Rotate from top left corner (not default) */
+	    -webkit-transform-origin: 0 0;
+	    -moz-transform-origin:    0 0;
+	    -ms-transform-origin:     0 0;
+	    -o-transform-origin:      0 0;
+	    
+	    -webkit-transform: rotate(-90deg); 
+	    -moz-transform:    rotate(-90deg); 
+	    -ms-transform:     rotate(-90deg); 
+	    -o-transform:      rotate(-90deg); 
+	}
+
+	.cards {
+	-webkit-flex-basis: 32%;
+	    -ms-flex-preferred-size: 32%;
+	        flex-basis: 32%;
+	}
+
+	div.competence {
+		-webkit-flex-basis: 15%;
+		-ms-flex-preferred-size: 15%;
+		flex-basis: 15%;
+	}
+
+	div.title img.left{
+		display: none;
+	}
+
+	.cards .img img {
+		width: 64px;
+		height: 64px;
+		display:block;
+	}
+
+
+
+}
+
+@media print {
+	
+	@page { margin:0in; }
+	
+	body {
+		width: 100%;
+		margin: 0;
+		font-size: 0.7em;
+		font-family: 'Roboto', "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	}
+
+	.row {
+		text-align: center;
+	}
+
+	.cards {
+		float: none;
+		display: inline-block;
+		margin: 0;
+		width: 6cm;
+		height: 2.5cm;
+		text-align: left;
+		padding: 0;
+	}
+
+	.card-content label {
+		font-size: 14px;
+		font-weight: bold;
+	}
+
+	.card-content p {
+		font-size: 9px;
+		line-height: 11px;
+	}
+
+	input[type="checkbox"]{
+		display: block !important;
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		height: 20px;
+		width: 20px;
+	}
+
+	.hide-for-print,
+	.title,
+	.cards a,
+	.cards img {
+		display: none;
+	}
+}
