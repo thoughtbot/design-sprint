@@ -57,7 +57,7 @@ Nous ne devrions pas commencer un sprint sans se mettre d'accord sur la définit
 Le "TAF" peut évoluer au cours du sprint vers un énoncé de problème accepté par toute l'équipe, mais sans un tel énoncé comme point de départ, le client ne sera pas prêt et ne devrait pas nous payer.
 
 
-#### [Pgase de compréhe](1-Understand)
+#### [Phase de compréhension](1-Understand)
 
 The Understand phase
 develops a common understanding
@@ -127,7 +127,7 @@ We've found Trello to be an excellent tool to help the team record the activitie
 taken during the sprint. This template helps alleviate some of the initial setup
 for the board and leaves references to this repo.
 
-Copy [this template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
+Cppiez [this template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 to your own board to help guide and document your sprint.
 
 
@@ -179,5 +179,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODU5MjkxM119
+eyJoaXN0b3J5IjpbLTIwMjcwMjkzNzldfQ==
 -->
