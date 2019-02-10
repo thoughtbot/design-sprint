@@ -12,7 +12,7 @@ Ce repo est une collection de documents destinés à guider un "Design Sprint" (
 * [Prototype Phase](4-Prototype)
 * [Test Phase](5-Test)
 
-## What is a producQu'est-ce qu'un sprint dDesign sprint?
+## Qu'est-ce qu'un sprint Design ?
 
 Un sprint de conception de produit est une technique pour
 résoudre rapidement les problèmes de conception de produits
@@ -36,7 +36,7 @@ Les sprints peuvent également être utilisés pour résoudre des problèmes ave
 A la fin du sprint, l'équipe comprendra le problème et aura validé si il y a  une solution viable pour commencer à construire ou si il faut faire un autre sprint pour continuer à chercher une solution meilleure.
 
 
-## Aperçu du design Sprint
+## Aperçu du Sprint design
 
 Un sprint design est composé de cinq phases : 
 
@@ -58,12 +58,6 @@ Le "TAF" peut évoluer au cours du sprint vers un énoncé de problème accepté
 
 
 #### [Phase de compréhension](1-Understand)
-
-The Understand phase develops a common understanding of the context within which we are working and all the elements in that context:
-the customer,
-their job to be done,
-and the business our client hopes to support by servicing the job to be done.
-We want to expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
 
 La phase "Comprendre" développe une compréhension commune du contexte dans lequel nous travaillons et de tous les éléments de ce contexte :
 le client,
@@ -88,33 +82,16 @@ En explorant et en éliminant tant d'options, cela renforce la confiance dans le
 
 #### [Phase de prototypage](4-Prototype)
 
-The Prototype phase develops a prototype that fills our riskiest knowledge gaps and assumptions.
-Paper prototypes,
-Keynote prototypes,
-Flinto prototypes,
-and
-static HTML/CSS pages
-are all valid mediums.
-The medium should be determined by our time constraints and learning goals.
-
 La phase Prototypage comme son nom l'indique développe un prototype qui comble les lacunes et les hypothèses les plus risquées de nos connaissances. 
 Les prototypes en papier, sous forme de Keynote ou PowerPoint , les pages HTML/CSS statiques sont tous des médiums valables.
 Le médium devrait être déterminé par nos contraintes de temps et nos objectifs d'apprentissage.
 
 #### [Phase de Test](5-Test)
 
-The Test phase tests our prototype with existing or potential customers.
-By the end of this phase, we should have validated or invalidated our riskiest knowledge gaps and assumptions and have confidence in our next steps.
-
 Cette phase permet de tester le prototype avec de véritables clients ou des utilisateurs potentiels.
 À la fin de cette phase, nous devrions avoir validé ou invalidé nos lacunes et hypothèses les plus risquées en matière de connaissances et avoir confiance dans nos prochaines étapes.
 
-## [Design Sprint Trello Template](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
-
-Throughout the sprint you want to be recording as much as possible.
-We've found Trello to be an excellent tool to help the team record the activities
-taken during the sprint. This template helps alleviate some of the initial setup
-for the board and leaves references to this repo.
+## [modèle de Design Sprint sur Trello](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 
 Tout au long du sprint, il faut enregistrer les activités tout autant que possible.
 L'équipe de Thoughtbot a trouvé que Trello était un excellent outil pour aider l'équipe à enregistrer les activité effectués pendant le sprint. Ce Template vous  permettra d'en faciliter la mise en oeuvre (le Trello est en anglais).
@@ -123,14 +100,14 @@ Copiez [ce trello](https://trello.com/b/lMmuSlkP/public-design-sprint-template)
 Dans vos propres tableaux pour vous aider et documenter votre sprint.
 
 
-## Example Design Sprint Schedule
+## Exemples de planification de Sprint Design
 
 * [Schedule for Understand](1-Understand/Schedule.md)
 * [Schedule for Diverge](2-Diverge/Schedule.md)
 * [Schedule for Converge](3-Converge/Schedule.md)
 * [Schedule for Test](5-Test/Schedule.md)
 
-## Further Reading
+## Pour aller plus loin
 
 * [thoughtbot's blog post](http://robots.thoughtbot.com/the-product-design-sprint)
 * [thoughtbot playbook](https://thoughtbot.com/playbook/product-design-sprint/introduction)
@@ -149,11 +126,10 @@ Dans vos propres tableaux pour vous aider et documenter votre sprint.
 
 ## Contribution
 
-We love new ideas that push this repository and design sprints forward. Please
-review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
+J'aime les nouvelles idées qui poussent ce référentiel en avant.
+ Please review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
 
 ## Credits
-
 
 Ce repo est un Fork de https://github.com/thoughtbot/design-sprint
 
