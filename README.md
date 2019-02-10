@@ -44,7 +44,9 @@ Un sprint design est composé de cinq phases :
 
 
 Understand, Diverge, Converge, Prototype and Test.
-Chaque phas
+Chaque phase à une durée d'une journée.
+
+Note : il est possible de faire des sprints design sur 3 jours. (Cf : 
 
 #### [Pre-Sprint](0-Pre-Sprint)
 
@@ -178,5 +180,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ1MTUyOTldfQ==
+eyJoaXN0b3J5IjpbLTM3ODM4ODIyMF19
 -->
