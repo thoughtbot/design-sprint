@@ -1,54 +1,44 @@
-## Example Schedule for Understand
+## Exemple de Planning pour la Phase 1 de compréhension
 
-#### Team intros *(15min)*
+### Présentation de l'équipe *(15min)*
 
-Introduce the design sprint team, announce the Product Owner and acknowledge the
-others involved with the project but not participating in the design sprint.
+Présenter l'équipe de design sprint, annoncer le Product Owner et reconnaître les autres personnes impliquées dans le projet mais ne participant pas au design sprint.
 
-#### Intro to the Design Sprint Process *(5min)*
+#### Présentation du process de sprint design *(5min)*
 
-High Level overview and goals of each day. Set expectations about how we might
-feel at certain steps in the process.
+Vue d'ensemble de haut niveau et objectifs de chaque jour. Établir des attentes sur ce que nous pourrions ressentir à certaines étapes du processus.
 
-There are many uses for a design sprint. At the core a design sprint is about
-quickly and collaboratively using design thinking to solve problems.
+Il y a beaucoup d'utilisations pour un sprint design. Au cœur d'un sprint design, il s'agit d'utiliser rapidement et en collaboration la pensée design pour résoudre des problèmes.
 
-#### Intro to Day 1: Understand *(5min)*
+#### Présentation du jour 1: COMPRENDRE *(5min)*
 
-Day 1 is about developing a common understanding of the context within which we
-are working and all the elements in that context (the problem, the business, the
-customer, the value prop/hypothesis, success, etc). Our goal is to expose risky
-knowledge gaps and identify risky assumptions so that we can make plans for
-reducing those risks and move forward confident we are heading in the right
-direction. Also, by gather info we will empower our decision making abilities
-and eliminate the need for guesswork later on.
+Le premier jour est consacré à l'élaboration d'une compréhension commune du contexte dans lequel nous nous situons. fonctionnent et tous les éléments dans ce contexte (le problème, l'entreprise, l'entreprise, l le client, la valeur de l'accessoire/hypothèse, le succès, etc). 
+Notre but est d'exposer les risques et de cerner les hypothèses risquées afin de pouvoir planifier les activités suivantes réduire ces risques et aller de l'avant en étant confiants que nous allons de l'avant dans la bonne direction direction. De plus, en recueillant de l'information, nous renforcerons nos capacités de prise de décision. et éliminer le besoin de deviner plus tard.
 
-#### The Problem Statement *(10min)*
+#### L'énoncé du problème *(10min)*
 
-#### Introduce Assumptions Board *(10min)*
+#### Présenter L'ensemble des hypothèses *(10min)*
 
-#### Introduce Back-burner Board *(10min)*
+#### Présenter le panneau de rétro *(10min)*
 
-#### Pitch Practice *(15min)*
+#### Pitch de la méthode *(15min)*
 
-#### Existing research *(10min)*
+#### Recherche de l'existant *(10min)*
 
-Quickly identify existing research the client has done and determine when that
-research can be brought back during the definitions section of the day.
+Identifier rapidement la recherche existante que le client a effectuée et déterminer quand cette recherche peut être reprise dans la section des définitions de la journée.
 
-#### Definitions: The Business & The Customer *(1hr)*
+#### Définitions: L'entreprise et le client *(1hr)*
 
-#### Definitions: The problem, The Value Prop, Success *(1hr)*
+#### Definitions: Le problème, La Value Proposition, Succès *(1hr)*
 
-#### Business Model Canvas *(30min)*
+#### Canevas de Business Model  *(30min)*
 
-#### Lightning Demos *(45min)*
+#### Démonstrations éclairantes *(45min)*
 
-#### Expert Perspectives *(30min)*
+#### Points de vue d'experts *(30min)*
 
-Identify existing research and other perspectives that would provide valuable
-insights and info.
+Déterminer les recherches existantes et les autres perspectives qui pourraient fournir des idées et de l'information utiles.
 
-##### Daily Recap *(30min)*
+##### Résumé de la journée *(30min)*
 
-Consolidate notes and write daily summary.
+Consolider les notes et rédiger un résumé quotidien.
