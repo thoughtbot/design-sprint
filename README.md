@@ -83,24 +83,19 @@ Ces perspectives peuvent devenir des forces différenciatrices précieuses et la
 
 #### [Phase de convergence](3-Converge)
 
-The Converge phase takes all the possibilities generated over the past two phases and hones in on a single version to prototype and test with existing or potential customers.
-By exploring and eliminating so many options, we have reason to be more confident in our choices.
+La phase de Convergence reprend toutes les possibilités générées au cours des deux dernières phases et s'affine sur une seule version pour prototyper et tester avec des clients existants ou potentiels.
+En explorant et en éliminant tant d'options, cela renforce la confiance dans les choix.
 
-#### [Prototype Phase](4-Prototype)
+#### [Phase de prototypage](4-Prototype)
 
-The Prototype phase
-develops a prototype
-that fills our riskiest knowledge gaps and assumptions.
+The Prototype phase develops a prototype that fills our riskiest knowledge gaps and assumptions.
 Paper prototypes,
 Keynote prototypes,
 Flinto prototypes,
 and
 static HTML/CSS pages
 are all valid mediums.
-The medium
-should be determined by
-our time constraints
-and learning goals.
+The medium should be determined by our time constraints and learning goals.
 
 #### [Test Phase](5-Test)
 
@@ -164,5 +159,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODI1NTA5Nl19
+eyJoaXN0b3J5IjpbLTE2MDY1OTA2OTRdfQ==
 -->
