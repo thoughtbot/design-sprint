@@ -36,11 +36,15 @@ Les sprints peuvent également être utilisés pour résoudre des problèmes ave
 A la fin du sprint, l'équipe comprendra le problème et aura validé si il y a  une solution viable pour commencer à construire ou si il faut faire un autre sprint pour continuer à chercher une solution meilleure.
 
 
-## Design Sprint Overview
+## Aperçu du design Sprint
 
-A design sprint is comprised of five phases;
+Un sprint design est composé de cinq phases : 
+
+ 1. Comprendre (*Understand*)
+
+
 Understand, Diverge, Converge, Prototype and Test.
-Each phase typically lasts one day.
+Chaque phas
 
 #### [Pre-Sprint](0-Pre-Sprint)
 
@@ -174,5 +178,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwOTk3MTkzXX0=
+eyJoaXN0b3J5IjpbLTIwNzQ1MTUyOTldfQ==
 -->
