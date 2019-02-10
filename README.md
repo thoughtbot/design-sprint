@@ -31,13 +31,10 @@ Les sprints peuvent également être utilisés pour résoudre des problèmes ave
 
 
 
-#### What should you expect to have at the end of a design sprint?
+#### A quoi faut-il s'attendre à la fin d'un sprint design 
 
-At the end of the sprint,
-the team will understand the problem and
-will have validated
-whether we have a viable solution to begin building
-or whether we need to run another sprint to keep searching for a solution.
+A la fin du sprint, l'équipe comprendra le problème et aura validé si il y a  une solution viable pour commencer à construire ou si il faut faire un autre sprint pour continuer à chercher une solution meilleure.
+
 
 ## Design Sprint Overview
 
@@ -177,5 +174,5 @@ The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA3ODk0OTldfQ==
+eyJoaXN0b3J5IjpbOTMwOTk3MTkzXX0=
 -->
