@@ -1,3 +1,9 @@
+# DEPRECATED
+
+This guide is no longer maintained and supported. We recommend reading through the [Sprint Book](https://www.thesprintbook.com/) instead.
+
+---
+
 ![Design Sprint Phases](/images/phases.png?raw=true "Design Sprint Phases")
 
 # Product Design Sprint
