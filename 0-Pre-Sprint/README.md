@@ -13,7 +13,7 @@ completion.
 **Recorder** Takes notes, photographs and is in charge of the documentation for
 the sprint.
 
-**Product Owner** Typically the client and the person with the initial product vision. 
+**Product Owner** Typically the client and the person with the initial product vision.
 This person has final say in the product.
 
 ### Set expectations for the outcome for the sprint
@@ -50,7 +50,7 @@ with multiple solutions for the bigger problems. Start your next sprint at step
 
 We've seen a lot of designs go up in flames, and that's OK. You learned that
 something didn’t work, and it only took you a few hours to build it.
-This is great progress, and very cheap relative to building 
+This is great progress, and very cheap relative to building
 and launching a full product.
 Think what would have happened if you’d spent weeks or
 months implementing this solution!
@@ -87,13 +87,12 @@ room would have a whiteboard and a place to pin or tape up sketches. **Typically
 * Whiteboard markers
 * Circle vote stickers
 * Easel Pad
- 
+
 **Typically done by Facilitator.**
 
 ### Schedule 4–6 people for interviews / usability tests
 
 Only if users are already identified. Otherwise this should be held off till
 after Understand. During [Test](../5-Test), we'll be running a user study, showing the
-prototype to 4–6 real people. Learn [how to recruit great participants for your study
-here](http://www.designstaff.org/articles/recruiting-how-to-find-great-participants-for-your-user-study-2012-02-22.html).
+prototype to 4–6 real people.
 **Typically done by Product Owner.**

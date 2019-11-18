@@ -28,7 +28,7 @@ quickly solve product design problems
 and test the viability of a solution.
 It has been pioneered by the
 [Google Ventures Design
-Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
+Team](http://www.gv.com/sprint/).
 
 #### Why do a design sprint?
 
@@ -151,13 +151,13 @@ to your own board to help guide and document your sprint.
 
 * [thoughtbot's blog post](http://robots.thoughtbot.com/the-product-design-sprint)
 * [thoughtbot playbook](https://thoughtbot.com/playbook/product-design-sprint/introduction)
-* Google Ventures [Design Staff blog posts](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html)
-  * [Before the sprint: Prepare](http://www.designstaff.org/articles/product-design-sprint-2-2012-10-09.html)
-  * [Day 1: Understand](http://www.designstaff.org/articles/product-design-sprint-day-1-understand-2012-10-16.html)
-  * [Day 2: Diverge](http://www.designstaff.org/articles/product-design-sprint-day-2-diverge-2012-10-26.html)
-  * [Day 3: Decide](http://www.designstaff.org/articles/product-design-sprint-day-3-decide-2012-11-20.html)
-  * [Day 4: Prototype](http://www.designstaff.org/articles/product-design-sprint-day-4-prototype-2013-01-07.html)
-  * [Day 5: Validate](http://www.designstaff.org/articles/product-design-sprint-day-5-validate-2013-03-07.html)
+* [Google Ventures](http://www.gv.com/sprint/)
+  * [Before the sprint: Prepare](https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25)
+  * [Day 1: Understand](https://library.gv.com/sprint-week-monday-4bf0606b5c81)
+  * [Day 2: Diverge](https://library.gv.com/sprint-week-tuesday-d22b30f905c3)
+  * [Day 3: Decide](https://library.gv.com/sprint-week-wednesday-900fe3f2c26e)
+  * [Day 4: Prototype](https://library.gv.com/sprint-week-thursday-df8d7c8c0555)
+  * [Day 5: Validate](https://library.gv.com/sprint-week-friday-7f66b4194137)
 * IDEO's [Human Centered Design Toolkit](http://www.ideo.com/work/human-centered-design-toolkit/)
 * [How To Conduct Your Own Google Ventures Design Sprint](http://www.fastcodesign.com/1672887/how-to-conduct-your-own-google-design-sprint)
 * [Personal Design Sprint](http://franciscortez.com/design-sprint/)
