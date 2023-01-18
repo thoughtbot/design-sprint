@@ -1,6 +1,6 @@
 # DEPRECATED
 
-This guide is no longer maintained and supported. We recommend reading our [Playbook](https://thoughtbot.com/playbook/validation/product-design-sprint) instead.
+This guide is no longer maintained and supported. Our new guide can be found at <https://design.thoughtbot.com/sprint-guide>.
 
 ---
 
